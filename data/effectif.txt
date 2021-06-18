@@ -1,0 +1,24 @@
+﻿Num,Joueur
+30,Aboulfath
+31,Ait Allal
+22,Amloud
+17,Aouk
+14,Attiat Allah
+32,Chrachem
+3,Dari
+28,Ellafi
+25,Farhane
+38,Haimoud
+20,Hassouni
+5,Jabrane
+9,Kaabi
+18,Karti
+19,Moudane
+11,Msuva
+7,Ounajem
+24,Rahim
+4,Saidi
+6,Serrhat
+27,Sioudi
+2,Skouma
+26,Tagnaouti

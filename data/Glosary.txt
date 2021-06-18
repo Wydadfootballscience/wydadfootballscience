@@ -1,0 +1,15 @@
+Événement,Définition
+Touche dans la surface,Une action qui se produit dans la surface de réparation adverse.
+La passe progressive dans dernier tiers ,Une passe en avant qui tente de faire avancer une équipe beaucoup plus dans dernier tiers
+Key pass,La dernière passe d'un joueur avant qu'un coéquipier ait un tir.
+Duel,Un défi entre deux joueurs pour prendre le contrôle du ballon progresser avec le ballon ou changer sa direction.
+Six mètres,Un coup de pied de but.
+Dribble,Tentative de dépassement d'un joueur adverse tout en essayant de maintenir la possession du ballon.
+Tir Assist,Une passe qui crée immédiatement une opportunité claire de marquer des buts pour un coéquipier.
+La passe derrière la ligne,Une passe jouée dans l'espace derrière la ligne défensive pour un coéquipier à contester.
+Récupération,Toute action qui met fin à une Possession de l'équipe adverse.
+Perte du ballon,Toute action qui met fin à une possession de l'équipe actuelle.
+Corner, Corner.
+Passe longue,Chaque passe de plus de 45 mètres et de 25 mètres dans le coin adverse.
+Touche dans la surface,une passe ou une touche qui se produit dans la surface de réparation adverse
+Duel aérien,Lorsque deux joueurs ou plus d'équipes adverses sautent pour s'affronter pour le ballon

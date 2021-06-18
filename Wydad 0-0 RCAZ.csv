@@ -1,0 +1,1728 @@
+﻿Team,Type,Subtype,Period,Start Frame,Start Time [s],End Frame,End Time [s],From,To,Start_X,Start_Y,End_X,End_Y
+Adversaire,PASS,,2,,,,,22,,0.2324,0.8505,0.0898,0.5732
+Adversaire,PASS,,2,,,,,22,,0.3301,0.8287,0.1641,0.6137
+Adversaire,PASS,,2,,,,,22,,0.2891,0.1900,0.2422,0.4704
+Adversaire,PASS,,2,,,,,22,,0.6504,0.3333,0.1602,0.5701
+Adversaire,PASS,,2,,,,,22,,0.6504,0.3333,0.6504,0.3333
+Adversaire,PASS,,2,,,,,22,,0.6211,0.1090,0.2695,0.4704
+Adversaire,PASS,,2,,,,,16,,0.1680,0.7383,0.3379,0.9315
+Adversaire,PASS,,2,,,,,16,,0.3574,0.9315,0.2324,0.9034
+Adversaire,PASS,,2,,,,,16,,0.3359,0.8162,0.2754,0.7196
+Adversaire,PASS,,2,,,,,16,,0.6055,0.6698,0.2363,0.8816
+Adversaire,PASS,,2,,,,,16,,0.5742,0.7290,0.4180,0.7539
+Adversaire,PASS,,2,,,,,16,,0.5488,0.6947,0.3535,0.8131
+Adversaire,PASS,,2,,,,,16,,0.3828,0.9221,0.3340,0.8442
+Adversaire,PASS,,2,,,,,16,,0.3438,0.8287,0.2539,0.8754
+Adversaire,PASS,,2,,,,,16,,0.2949,0.7975,0.3945,0.7757
+Adversaire,PASS,,2,,,,,16,,0.3633,0.8006,0.5371,0.8349
+Adversaire,PASS,,2,,,,,16,,0.3438,0.7726,0.2441,0.7040
+Adversaire,PASS,,2,,,,,16,,0.4453,0.9065,0.3652,0.6355
+Adversaire,PASS,,2,,,,,16,,0.4668,0.8660,0.2676,0.8505
+Adversaire,PASS,,2,,,,,16,,0.3184,0.8318,0.2090,0.8505
+Adversaire,PASS,,2,,,,,16,,0.6523,0.8349,0.5645,0.9252
+Adversaire,PASS,,2,,,,,5,,0.1836,0.2928,0.0996,0.2991
+Adversaire,PASS,,2,,,,,5,,0.2461,0.4798,0.3320,0.8131
+Adversaire,PASS,,2,,,,,5,,0.3828,0.5950,0.3184,0.6604
+Adversaire,PASS,,2,,,,,5,,0.5977,0.5483,0.4219,0.6012
+Adversaire,PASS,,2,,,,,5,,0.5566,0.8069,0.3457,0.7196
+Adversaire,PASS,,2,,,,,5,,0.2773,0.7165,0.1777,0.5919
+Adversaire,PASS,,2,,,,,5,,0.1621,0.5732,0.1797,0.6791
+Adversaire,PASS,,2,,,,,5,,0.1367,0.6542,0.2910,0.7944
+Adversaire,PASS,,2,,,,,5,,0.2852,0.9190,0.1641,0.7352
+Adversaire,PASS,,2,,,,,5,,0.3066,0.9128,0.1758,0.6417
+Adversaire,PASS,,2,,,,,5,,0.2285,0.7632,0.1426,0.7227
+Adversaire,PASS,,2,,,,,19,,0.0957,0.4268,0.1309,0.1526
+Adversaire,PASS,,2,,,,,19,,0.2676,0.3302,0.1270,0.3832
+Adversaire,PASS,,2,,,,,19,,0.5313,0.3769,0.2773,0.2461
+Adversaire,PASS,,2,,,,,19,,0.4180,0.5950,0.4805,0.1776
+Adversaire,PASS,,2,,,,,19,,0.5000,0.3925,0.3086,0.4611
+Adversaire,PASS,,2,,,,,19,,0.3926,0.2368,0.2969,0.4455
+Adversaire,PASS,,2,,,,,19,,0.4238,0.0748,0.2891,0.1807
+Adversaire,PASS,,2,,,,,19,,0.6426,0.3146,0.5332,0.5483
+Adversaire,PASS,,2,,,,,19,,0.4238,0.7601,0.6465,0.6636
+Adversaire,PASS,,2,,,,,4,,0.5840,0.5919,0.3535,0.2087
+Adversaire,PASS,,2,,,,,4,,0.7422,0.4860,0.3984,0.2617
+Adversaire,PASS,,2,,,,,4,,0.7305,0.7757,0.6465,0.3209
+Adversaire,PASS,,2,,,,,4,,0.4082,0.1059,0.1855,0.2835
+Adversaire,PASS,,2,,,,,4,,0.3965,0.1184,0.1914,0.3053
+Adversaire,PASS,,2,,,,,4,,0.4219,0.0841,0.3242,0.1246
+Adversaire,PASS,,2,,,,,4,,0.4219,0.2150,0.2559,0.1900
+Adversaire,PASS,,2,,,,,4,,0.5117,0.1402,0.3809,0.1838
+Adversaire,PASS,,2,,,,,4,,0.6113,0.1059,0.7402,0.0779
+Adversaire,PASS,,2,,,,,4,,0.8242,0.0872,0.5762,0.1215
+Adversaire,PASS,,2,,,,,4,,0.6777,0.1900,0.8730,0.1495
+Adversaire,PASS,,2,,,,,4,,0.6504,0.1931,0.6738,0.0623
+Adversaire,PASS,,2,,,,,4,,0.2734,0.3084,0.2461,0.3333
+Adversaire,PASS,,2,,,,,6,,0.4297,0.1433,0.2578,0.0748
+Adversaire,PASS,,2,,,,,6,,0.3223,0.1371,0.3984,0.1745
+Adversaire,PASS,,2,,,,,6,,0.3145,0.2866,0.3145,0.1745
+Adversaire,PASS,,2,,,,,6,,0.3945,0.2118,0.2891,0.2866
+Adversaire,PASS,,2,,,,,6,,0.2793,0.1994,0.2793,0.5888
+Adversaire,PASS,,2,,,,,6,,0.3262,0.4517,0.1523,0.4517
+Adversaire,PASS,,2,,,,,6,,0.4004,0.2741,0.5527,0.2617
+Adversaire,PASS,,2,,,,,6,,0.4395,0.2741,0.3945,0.3115
+Adversaire,PASS,,2,,,,,6,,0.6934,0.2617,0.6563,0.1963
+Adversaire,PASS,,2,,,,,6,,0.6484,0.3738,0.5703,0.7352
+Adversaire,PASS,,2,,,,,6,,0.6484,0.6449,0.6250,0.4984
+Adversaire,PASS,,2,,,,,6,,0.6660,0.6511,0.5977,0.6480
+Adversaire,PASS,,2,,,,,6,,0.4688,0.5016,0.4160,0.6480
+Adversaire,PASS,,2,,,,,6,,0.4414,0.8879,0.3516,0.7570
+Adversaire,PASS,,2,,,,,6,,0.2832,0.8879,0.1152,0.7040
+Adversaire,PASS,,2,,,,,6,,0.2441,0.8754,0.1445,0.8660
+Adversaire,PASS,,2,,,,,77,,0.3184,0.7414,0.3535,0.6231
+Adversaire,PASS,,2,,,,,77,,0.5762,0.7383,0.6680,0.6573
+Adversaire,PASS,,2,,,,,77,,0.6719,0.1745,0.6855,0.5483
+Adversaire,PASS,,2,,,,,77,,0.8359,0.1402,0.6152,0.2212
+Adversaire,PASS,,2,,,,,77,,0.8496,0.1028,0.7656,0.2399
+Adversaire,PASS,,2,,,,,77,,0.7461,0.0841,0.8262,0.0872
+Adversaire,PASS,,2,,,,,77,,0.7676,0.0966,0.6602,0.1340
+Adversaire,PASS,,2,,,,,77,,0.5586,0.1371,0.4746,0.2804
+Adversaire,PASS,,2,,,,,77,,0.6426,0.0903,0.5859,0.0779
+Adversaire,PASS,,2,,,,,77,,0.5664,0.3333,0.6465,0.3022
+Adversaire,PASS,,2,,,,,77,,0.6465,0.3832,0.6484,0.2492
+Adversaire,PASS,,2,,,,,77,,0.8203,0.1807,0.9141,0.7664
+Adversaire,PASS,,2,,,,,17,,0.7793,0.3645,0.6543,0.3551
+Adversaire,PASS,,2,,,,,17,,0.3223,0.1651,0.3125,0.7414
+Adversaire,PASS,,2,,,,,17,,0.3809,0.1713,0.1641,0.2586
+Adversaire,PASS,,2,,,,,17,,0.5371,0.1745,0.3809,0.2181
+Adversaire,PASS,,2,,,,,17,,0.4414,0.2835,0.4199,0.1059
+Adversaire,PASS,,2,,,,,17,,0.2500,0.6511,0.2676,0.3240
+Adversaire,PASS,,2,,,,,17,,0.1250,0.8629,0.2422,0.8411
+Adversaire,PASS,,2,,,,,17,,0.5039,0.8536,0.3301,0.2368
+Adversaire,PASS,,2,,,,,17,,0.5820,0.1340,0.3887,0.6293
+Adversaire,PASS,,2,,,,,17,,0.5840,0.1526,0.6738,0.3427
+Adversaire,PASS,,2,,,,,17,,0.7578,0.2243,0.5645,0.1215
+Adversaire,PASS,,2,,,,,17,,0.8516,0.2960,0.4258,0.0841
+Adversaire,PASS,,2,,,,,17,,0.8906,0.1371,0.4707,0.3520
+Adversaire,PASS,,2,,,,,17,,0.5566,0.4673,0.4316,0.3458
+Adversaire,PASS,,2,,,,,17,,0.6602,0.7819,0.4355,0.4611
+Adversaire,PASS,,2,,,,,17,,0.8398,0.8505,0.6719,0.7601
+Adversaire,PASS,,2,,,,,17,,0.8574,0.8816,0.6895,0.6947
+Adversaire,PASS,,2,,,,,17,,0.6113,0.8224,0.6621,0.7975
+Adversaire,PASS,,2,,,,,17,,0.5684,0.6885,0.6367,0.7383
+Adversaire,PASS,,2,,,,,17,,0.5371,0.6573,0.5703,0.7259
+Adversaire,PASS,,2,,,,,20,,0.1074,0.6044,0.3438,0.7601
+Adversaire,PASS,,2,,,,,20,,0.2500,0.8536,0.2363,0.5919
+Adversaire,PASS,,2,,,,,20,,0.2344,0.8816,0.3730,0.7944
+Adversaire,PASS,,2,,,,,20,,0.3516,0.6386,0.3242,0.8193
+Adversaire,PASS,,2,,,,,20,,0.3184,0.8879,0.4043,0.7165
+Adversaire,PASS,,2,,,,,20,,0.4141,0.8847,0.3418,0.8349
+Adversaire,PASS,,2,,,,,20,,0.4375,0.8162,0.3574,0.7850
+Adversaire,PASS,,2,,,,,20,,0.6289,0.7321,0.4336,0.7850
+Adversaire,PASS,,2,,,,,20,,0.6348,0.9128,0.5664,0.6822
+Adversaire,PASS,,2,,,,,20,,0.6035,0.9159,0.6348,0.7757
+Adversaire,PASS,,2,,,,,20,,0.6113,0.9315,0.5879,0.8349
+Adversaire,PASS,,2,,,,,20,,0.4219,0.6604,0.5762,0.8224
+Adversaire,PASS,,2,,,,,20,,0.4980,0.6449,0.4258,0.8567
+Adversaire,PASS,,2,,,,,20,,0.5391,0.5576,0.6016,0.8224
+Adversaire,PASS,,2,,,,,20,,0.6484,0.6449,0.6484,0.3988
+Adversaire,PASS,,2,,,,,20,,0.6914,0.4455,0.6191,0.4424
+Adversaire,PASS,,2,,,,,11,,0.7598,0.5981,0.7578,0.3178
+Adversaire,PASS,,2,,,,,11,,0.8438,0.6729,0.9355,0.8131
+Adversaire,PASS,,2,,,,,11,,0.7559,0.8660,0.8770,0.8255
+Adversaire,PASS,,2,,,,,11,,0.7637,0.7539,0.3770,0.9159
+Adversaire,PASS,,2,,,,,11,,0.6328,0.7726,0.6250,0.8162
+Adversaire,PASS,,2,,,,,11,,0.6836,0.7040,0.6582,0.7882
+Adversaire,PASS,,2,,,,,11,,0.7148,0.6480,0.7129,0.7072
+Adversaire,PASS,,2,,,,,11,,0.5371,0.8411,0.6992,0.9283
+Adversaire,PASS,,2,,,,,11,,0.3945,0.7882,0.5977,0.9252
+Adversaire,PASS,,2,,,,,11,,0.2578,0.8567,0.3516,0.9346
+Adversaire,PASS,,2,,,,,11,,0.2363,0.8660,0.3125,0.9377
+Adversaire,PASS,,2,,,,,11,,0.3594,0.8598,0.2559,0.8847
+Adversaire,PASS,,2,,,,,11,,0.2715,0.8474,0.3945,0.8287
+Adversaire,PASS,,2,,,,,21,,0.7910,0.3458,0.7500,0.3801
+Adversaire,PASS,,2,,,,,21,,0.7598,0.3146,0.8379,0.1433
+Adversaire,PASS,,2,,,,,21,,0.7754,0.2399,0.8496,0.0903
+Adversaire,PASS,,2,,,,,21,,0.8457,0.3707,0.7227,0.5732
+Adversaire,PASS,,2,,,,,21,,0.8457,0.7819,0.4961,0.6324
+Adversaire,PASS,,2,,,,,21,,0.8457,0.6885,0.6641,0.7757
+Adversaire,PASS,,2,,,,,21,,0.7012,0.9128,0.6465,0.6511
+Adversaire,PASS,,2,,,,,21,,0.6563,0.8037,0.6563,0.8567
+Adversaire,PASS,,2,,,,,21,,0.4414,0.5234,0.5098,0.4984
+Adversaire,PASS,,2,,,,,21,,0.4395,0.3863,0.5078,0.3832
+Adversaire,PASS,,2,,,,,21,,0.4980,0.1745,0.5430,0.1807
+Adversaire,PASS,,2,,,,,21,,0.3867,0.8162,0.1836,0.6324
+Adversaire,PASS,,2,,,,,21,,0.3418,0.8692,0.3008,0.8910
+Adversaire,PASS,,2,,,,,21,,0.3242,0.2274,0.1953,0.2118
+Adversaire,PASS,,2,,,,,27,,0.6348,0.7227,0.6035,0.5358
+Adversaire,Passe ratee,Lost,2,,,,,22,,0.6621,0.0249,0.1523,0.3115
+Adversaire,Passe ratee,Lost,2,,,,,22,,0.6191,0.5888,0.0918,0.4299
+Adversaire,Passe ratee,Lost,2,,,,,22,,0.6797,0.4673,0.1133,0.6075
+Adversaire,Passe ratee,Lost,2,,,,,22,,0.2930,0.9688,0.1328,0.6573
+Adversaire,Passe ratee,Lost,2,,,,,16,,0.3828,0.8754,0.0820,0.8255
+Adversaire,Passe ratee,Lost,2,,,,,16,,0.4004,0.8785,0.2422,0.7850
+Adversaire,Passe ratee,Lost,2,,,,,16,,0.3887,0.8193,0.2930,0.9221
+Adversaire,Passe ratee,Lost,2,,,,,16,,0.5703,0.7664,0.1289,0.8598
+Adversaire,Passe ratee,Lost,2,,,,,16,,0.5898,0.6386,0.2793,0.8193
+Adversaire,Passe ratee,Lost,2,,,,,16,,0.5938,0.4735,0.3789,0.6854
+Adversaire,Passe ratee,Lost,2,,,,,16,,0.6465,0.8411,0.3105,0.8972
+Adversaire,Passe ratee,Lost,2,,,,,16,,0.3516,0.8037,0.2813,0.7882
+Adversaire,Passe ratee,Lost,2,,,,,16,,0.1680,0.9003,0.0703,0.9097
+Adversaire,Passe ratee,Lost,2,,,,,16,,0.2207,0.9688,0.0449,0.9377
+Adversaire,Passe ratee,Lost,2,,,,,5,,0.4238,0.8879,0.1855,0.9190
+Adversaire,Passe ratee,Lost,2,,,,,5,,0.7129,0.8692,0.3574,0.9221
+Adversaire,Passe ratee,Lost,2,,,,,5,,0.3594,0.7009,0.3145,0.6199
+Adversaire,Passe ratee,Lost,2,,,,,5,,0.2852,0.7352,0.2363,0.7539
+Adversaire,Passe ratee,Lost,2,,,,,5,,0.2969,0.8255,0.3008,0.7570
+Adversaire,Passe ratee,Lost,2,,,,,5,,0.5977,0.2586,0.4219,0.5389
+Adversaire,Passe ratee,Lost,2,,,,,19,,0.4121,0.4361,0.1602,0.5545
+Adversaire,Passe ratee,Lost,2,,,,,19,,0.6934,0.5016,0.4102,0.3988
+Adversaire,Passe ratee,Lost,2,,,,,19,,0.3965,0.3645,0.2422,0.2960
+Adversaire,Passe ratee,Lost,2,,,,,19,,0.7422,0.1495,0.3125,0.2991
+Adversaire,Passe ratee,Lost,2,,,,,19,,0.2969,0.2866,0.2676,0.2648
+Adversaire,Passe ratee,Lost,2,,,,,19,,0.3535,0.2150,0.2578,0.1994
+Adversaire,Passe ratee,Lost,2,,,,,4,,0.1582,0.1682,0.2129,0.0779
+Adversaire,Passe ratee,Lost,2,,,,,4,,0.3867,0.1433,0.1543,0.1153
+Adversaire,Passe ratee,Lost,2,,,,,4,,0.4629,0.3084,0.2910,0.2399
+Adversaire,Passe ratee,Lost,2,,,,,4,,0.6680,0.2555,0.3984,0.2305
+Adversaire,Passe ratee,Lost,2,,,,,4,,0.8379,0.4735,0.5879,0.0717
+Adversaire,Passe ratee,Lost,2,,,,,4,,0.7891,0.9720,0.8516,0.1153
+Adversaire,Passe ratee,Lost,2,,,,,4,,0.8203,0.3614,0.8086,0.1371
+Adversaire,Passe ratee,Lost,2,,,,,4,,0.9023,0.1776,0.9082,0.1340
+Adversaire,Passe ratee,Lost,2,,,,,4,,0.6855,0.6199,0.5137,0.0872
+Adversaire,Passe ratee,Lost,2,,,,,4,,0.6660,0.6636,0.5176,0.1620
+Adversaire,Passe ratee,Lost,2,,,,,6,,0.0859,0.8287,0.1348,0.8349
+Adversaire,Passe ratee,Lost,2,,,,,6,,0.7852,0.6293,0.3906,0.8349
+Adversaire,Passe ratee,Lost,2,,,,,6,,0.5898,0.2960,0.5000,0.3427
+Adversaire,Passe ratee,Lost,2,,,,,6,,0.6602,0.4517,0.5273,0.2773
+Adversaire,Passe ratee,Lost,2,,,,,6,,0.7305,0.9626,0.5449,0.5483
+Adversaire,Passe ratee,Lost,2,,,,,17,,0.3477,0.4548,0.3535,0.5109
+Adversaire,Passe ratee,Lost,2,,,,,17,,0.7852,0.4766,0.4375,0.3925
+Adversaire,Passe ratee,Lost,2,,,,,17,,0.6406,0.4081,0.4551,0.2866
+Adversaire,Passe ratee,Lost,2,,,,,17,,0.8516,0.1153,0.5410,0.1433
+Adversaire,Passe ratee,Lost,2,,,,,17,,0.8125,0.1464,0.6328,0.2368
+Adversaire,Passe ratee,Lost,2,,,,,17,,0.6328,0.0997,0.5996,0.0841
+Adversaire,Passe ratee,Lost,2,,,,,20,,0.7324,0.8442,0.6289,0.7508
+Adversaire,Passe ratee,Lost,2,,,,,20,,0.7344,0.1371,0.5547,0.2087
+Adversaire,Passe ratee,Lost,2,,,,,20,,0.4082,0.5732,0.3867,0.5826
+Adversaire,Passe ratee,Lost,2,,,,,20,,0.3926,0.7196,0.3320,0.7445
+Adversaire,Passe ratee,Lost,2,,,,,20,,0.2070,0.7975,0.2422,0.7632
+Adversaire,Passe ratee,Lost,2,,,,,11,,0.2188,0.7508,0.2930,0.8941
+Adversaire,Passe ratee,Lost,2,,,,,11,,0.7188,0.3489,0.3730,0.7321
+Adversaire,Passe ratee,Lost,2,,,,,11,,0.6973,0.2555,0.5977,0.6012
+Adversaire,Passe ratee,Lost,2,,,,,11,,0.3770,0.7477,0.5137,0.9283
+Adversaire,Passe ratee,Lost,2,,,,,11,,0.5371,0.7819,0.5313,0.7103
+Adversaire,Passe ratee,Lost,2,,,,,11,,0.8867,0.5140,0.8516,0.8754
+Adversaire,Passe ratee,Lost,2,,,,,11,,0.9590,0.7103,0.9297,0.3115
+Adversaire,Passe ratee,Lost,2,,,,,11,,0.9023,0.7975,0.9004,0.8474
+Adversaire,Passe ratee,Lost,2,,,,,11,,0.8301,0.8629,0.6543,0.8785
+Adversaire,Passe ratee,Lost,2,,,,,11,,0.7227,0.8879,0.6387,0.9283
+Adversaire,Passe ratee,Lost,2,,,,,21,,0.4219,0.1340,0.2617,0.8380
+Adversaire,Passe ratee,Lost,2,,,,,21,,0.4688,0.2492,0.4395,0.1495
+Adversaire,Passe ratee,Lost,2,,,,,21,,0.7090,0.4424,0.5430,0.3863
+Adversaire,Passe ratee,Lost,2,,,,,21,,0.6699,0.3676,0.5547,0.7134
+Adversaire,Passe ratee,Lost,2,,,,,21,,0.8281,0.5452,0.6699,0.1931
+Adversaire,Passe ratee,Lost,2,,,,,21,,0.7383,0.1495,0.6543,0.0935
+Adversaire,Passe ratee,Lost,2,,,,,21,,0.6016,0.4579,0.6250,0.4393
+Adversaire,Passe ratee,Lost,2,,,,,21,,0.4141,0.8910,0.6426,0.9097
+Adversaire,Passe ratee,Lost,2,,,,,27,,0.5645,0.8349,0.4336,0.9470
+Adversaire,Ballon perdu,Lost,2,,,,,77,,0.6602,0.3271,,
+Adversaire,Ballon perdu,Lost,2,,,,,77,,0.8613,0.3053,,
+Adversaire,Ballon perdu,Lost,2,,,,,77,,0.8457,0.1745,,
+Adversaire,Ballon perdu,Lost,2,,,,,77,,0.7832,0.6822,,
+Adversaire,Ballon perdu,Lost,2,,,,,77,,0.6094,0.6698,,
+Adversaire,Ballon perdu,Lost,2,,,,,77,,0.6719,0.2492,,
+Adversaire,Ballon perdu,Lost,2,,,,,77,,0.6250,0.2804,,
+Adversaire,Ballon perdu,Lost,2,,,,,77,,0.3867,0.2150,,
+Adversaire,Ballon perdu,Lost,2,,,,,77,,0.1953,0.0717,,
+Adversaire,Ballon perdu,Lost,2,,,,,77,,0.6621,0.1184,,
+Adversaire,Ballon perdu,Lost,2,,,,,77,,0.7090,0.6822,,
+Adversaire,Ballon perdu,Lost,2,,,,,11,,0.5313,0.7850,,
+Adversaire,Ballon perdu,Lost,2,,,,,11,,0.5645,0.8037,,
+Adversaire,Ballon perdu,Lost,2,,,,,11,,0.6465,0.7850,,
+Adversaire,Ballon perdu,Lost,2,,,,,11,,0.6660,0.8162,,
+Adversaire,Ballon perdu,Lost,2,,,,,11,,0.8242,0.1371,,
+Adversaire,Ballon perdu,Lost,2,,,,,11,,0.1543,0.8069,,
+Adversaire,Ballon perdu,Lost,2,,,,,11,,0.6465,0.8505,,
+Adversaire,Ballon perdu,Lost,2,,,,,11,,0.6660,0.8692,,
+Adversaire,Ballon perdu,Lost,2,,,,,11,,0.6582,0.1153,,
+Adversaire,Ballon perdu,Lost,2,,,,,4,,0.1523,0.1682,,
+Adversaire,Ballon perdu,Lost,2,,,,,4,,0.1836,0.3209,,
+Adversaire,Ballon perdu,Lost,2,,,,,4,,0.2324,0.3925,,
+Adversaire,Ballon perdu,Lost,2,,,,,4,,0.1406,0.6417,,
+Adversaire,Ballon perdu,Lost,2,,,,,4,,0.4297,0.0561,,
+Adversaire,Ballon perdu,Lost,2,,,,,4,,0.2832,0.0935,,
+Adversaire,Ballon perdu,Lost,2,,,,,4,,0.5469,0.2150,,
+Adversaire,Ballon perdu,Lost,2,,,,,17,,0.4746,0.4891,,
+Adversaire,Ballon perdu,Lost,2,,,,,17,,0.3477,0.4984,,
+Adversaire,Ballon perdu,Lost,2,,,,,17,,0.4277,0.2181,,
+Adversaire,Ballon perdu,Lost,2,,,,,17,,0.6484,0.2430,,
+Adversaire,Ballon perdu,Lost,2,,,,,17,,0.1465,0.5670,,
+Adversaire,Ballon perdu,Lost,2,,,,,17,,0.6602,0.8411,,
+Adversaire,Ballon perdu,Lost,2,,,,,17,,0.0879,0.3707,,
+Adversaire,Ballon perdu,Lost,2,,,,,19,,0.1543,0.4361,,
+Adversaire,Ballon perdu,Lost,2,,,,,19,,0.1641,0.2991,,
+Adversaire,Ballon perdu,Lost,2,,,,,19,,0.0566,0.2430,,
+Adversaire,Ballon perdu,Lost,2,,,,,19,,0.1172,0.1246,,
+Adversaire,Ballon perdu,Lost,2,,,,,19,,0.2773,0.2586,,
+Adversaire,Ballon perdu,Lost,2,,,,,19,,0.4355,0.1402,,
+Adversaire,Ballon perdu,Lost,2,,,,,21,,0.5723,0.4642,,
+Adversaire,Ballon perdu,Lost,2,,,,,21,,0.5449,0.7072,,
+Adversaire,Ballon perdu,Lost,2,,,,,21,,0.6895,0.6978,,
+Adversaire,Ballon perdu,Lost,2,,,,,21,,0.7500,0.6604,,
+Adversaire,Ballon perdu,Lost,2,,,,,21,,0.4102,0.8910,,
+Adversaire,Ballon perdu,Lost,2,,,,,20,,0.3887,0.5919,,
+Adversaire,Ballon perdu,Lost,2,,,,,20,,0.3262,0.4486,,
+Adversaire,Ballon perdu,Lost,2,,,,,20,,0.5840,0.2928,,
+Adversaire,Ballon perdu,Lost,2,,,,,20,,0.1094,0.7196,,
+Adversaire,Ballon perdu,Lost,2,,,,,16,,0.1543,0.8349,,
+Adversaire,Ballon perdu,Lost,2,,,,,16,,0.2031,0.6885,,
+Adversaire,Ballon perdu,Lost,2,,,,,16,,0.3730,0.7445,,
+Adversaire,Ballon perdu,Lost,2,,,,,16,,0.3164,0.6262,,
+Adversaire,Ballon perdu,Lost,2,,,,,5,,0.1563,0.6947,,
+Adversaire,Ballon perdu,Lost,2,,,,,5,,0.6895,0.8847,,
+Adversaire,Ballon perdu,Lost,2,,,,,27,,0.2676,0.6947,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.1719,0.3022,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.2383,0.1340,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.5684,0.1308,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.5449,0.1651,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.6016,0.1433,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.6777,0.1371,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.6582,0.1776,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.6094,0.1931,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.4316,0.2118,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.4082,0.2866,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.3555,0.2991,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.3418,0.2430,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.3105,0.3178,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.3457,0.3614,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.3809,0.4050,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.3574,0.4361,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.4160,0.5265,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.4668,0.4922,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.4824,0.3551,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.3594,0.6324,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.3223,0.6199,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.5742,0.7072,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.3652,0.6791,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.2500,0.7072,,
+Adversaire,Duel gagne,Duels,2,,,,,17,,0.2988,0.1994,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.2207,0.5639,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.1934,0.6355,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.2930,0.5327,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.0977,0.4424,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.2676,0.3084,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.4434,0.7695,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.5137,0.8816,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.3906,0.8941,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.3398,0.8536,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.3145,0.8629,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.2344,0.8785,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.1016,0.8474,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.0859,0.8816,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.2910,0.1776,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.7227,0.1745,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.9160,0.8567,,
+Adversaire,Duel gagne,Duels,2,,,,,20,,0.2363,0.7819,,
+Adversaire,Duel gagne,Duels,2,,,,,11,,0.8555,0.2679,,
+Adversaire,Duel gagne,Duels,2,,,,,11,,0.8535,0.3676,,
+Adversaire,Duel gagne,Duels,2,,,,,11,,0.6895,0.8069,,
+Adversaire,Duel gagne,Duels,2,,,,,11,,0.6543,0.8629,,
+Adversaire,Duel gagne,Duels,2,,,,,11,,0.6094,0.9252,,
+Adversaire,Duel gagne,Duels,2,,,,,11,,0.5332,0.7882,,
+Adversaire,Duel gagne,Duels,2,,,,,11,,0.8574,0.8598,,
+Adversaire,Duel gagne,Duels,2,,,,,11,,0.1387,0.9346,,
+Adversaire,Duel gagne,Duels,2,,,,,11,,0.2734,0.8162,,
+Adversaire,Duel gagne,Duels,2,,,,,11,,0.2969,0.9190,,
+Adversaire,Duel gagne,Duels,2,,,,,11,,0.3672,0.7539,,
+Adversaire,Duel gagne,Duels,2,,,,,11,,0.3340,0.9128,,
+Adversaire,Duel gagne,Duels,2,,,,,11,,0.3340,0.8785,,
+Adversaire,Duel gagne,Duels,2,,,,,21,,0.6191,0.2679,,
+Adversaire,Duel gagne,Duels,2,,,,,21,,0.7207,0.2056,,
+Adversaire,Duel gagne,Duels,2,,,,,21,,0.7813,0.0872,,
+Adversaire,Duel gagne,Duels,2,,,,,21,,0.4414,0.6947,,
+Adversaire,Duel gagne,Duels,2,,,,,21,,0.4160,0.7477,,
+Adversaire,Duel gagne,Duels,2,,,,,21,,0.4375,0.8442,,
+Adversaire,Duel gagne,Duels,2,,,,,21,,0.5879,0.8006,,
+Adversaire,Duel gagne,Duels,2,,,,,21,,0.3906,0.4984,,
+Adversaire,Duel gagne,Duels,2,,,,,21,,0.4121,0.1838,,
+Adversaire,Duel gagne,Duels,2,,,,,21,,0.1992,0.8816,,
+Adversaire,Duel gagne,Duels,2,,,,,21,,0.7539,0.6636,,
+Adversaire,Duel gagne,Duels,2,,,,,77,,0.8535,0.7819,,
+Adversaire,Duel gagne,Duels,2,,,,,77,,0.7344,0.0841,,
+Adversaire,Duel gagne,Duels,2,,,,,77,,0.6563,0.1121,,
+Adversaire,Duel gagne,Duels,2,,,,,77,,0.5996,0.0810,,
+Adversaire,Duel gagne,Duels,2,,,,,77,,0.3574,0.1682,,
+Adversaire,Duel gagne,Duels,2,,,,,77,,0.3496,0.1184,,
+Adversaire,Duel gagne,Duels,2,,,,,77,,0.3164,0.1869,,
+Adversaire,Duel gagne,Duels,2,,,,,77,,0.2168,0.1620,,
+Adversaire,Duel gagne,Duels,2,,,,,77,,0.3320,0.2991,,
+Adversaire,Duel gagne,Duels,2,,,,,77,,0.6230,0.3022,,
+Adversaire,Duel gagne,Duels,2,,,,,4,,0.6855,0.1682,,
+Adversaire,Duel gagne,Duels,2,,,,,4,,0.0664,0.1433,,
+Adversaire,Duel gagne,Duels,2,,,,,4,,0.1191,0.1433,,
+Adversaire,Duel gagne,Duels,2,,,,,4,,0.1543,0.1682,,
+Adversaire,Duel gagne,Duels,2,,,,,4,,0.0840,0.4704,,
+Adversaire,Duel gagne,Duels,2,,,,,4,,0.2305,0.4019,,
+Adversaire,Duel gagne,Duels,2,,,,,4,,0.2637,0.3583,,
+Adversaire,Duel gagne,Duels,2,,,,,4,,0.2559,0.2804,,
+Adversaire,Duel gagne,Duels,2,,,,,4,,0.2285,0.2025,,
+Adversaire,Duel gagne,Duels,2,,,,,6,,0.1094,0.2773,,
+Adversaire,Duel gagne,Duels,2,,,,,6,,0.2344,0.2773,,
+Adversaire,Duel gagne,Duels,2,,,,,6,,0.3535,0.8224,,
+Adversaire,Duel gagne,Duels,2,,,,,6,,0.3496,0.8972,,
+Adversaire,Duel gagne,Duels,2,,,,,6,,0.3887,0.6885,,
+Adversaire,Duel gagne,Duels,2,,,,,6,,0.2656,0.8816,,
+Adversaire,Duel gagne,Duels,2,,,,,6,,0.1426,0.9065,,
+Adversaire,Duel gagne,Duels,2,,,,,6,,0.3301,0.7570,,
+Adversaire,Duel gagne,Duels,2,,,,,16,,0.3301,0.7290,,
+Adversaire,Duel gagne,Duels,2,,,,,16,,0.3691,0.7352,,
+Adversaire,Duel gagne,Duels,2,,,,,16,,0.2871,0.6791,,
+Adversaire,Duel gagne,Duels,2,,,,,16,,0.3438,0.5358,,
+Adversaire,Duel gagne,Duels,2,,,,,16,,0.2109,0.7539,,
+Adversaire,Duel gagne,Duels,2,,,,,16,,0.2051,0.6916,,
+Adversaire,Duel gagne,Duels,2,,,,,16,,0.1016,0.9221,,
+Adversaire,Duel gagne,Duels,2,,,,,5,,0.4082,0.5732,,
+Adversaire,Duel gagne,Duels,2,,,,,5,,0.3359,0.6480,,
+Adversaire,Duel gagne,Duels,2,,,,,5,,0.2695,0.7196,,
+Adversaire,Duel gagne,Duels,2,,,,,5,,0.3047,0.7975,,
+Adversaire,Duel gagne,Duels,2,,,,,5,,0.3613,0.6137,,
+Adversaire,Duel gagne,Duels,2,,,,,5,,0.0996,0.8972,,
+Adversaire,Duel gagne,Duels,2,,,,,22,,0.0645,0.5265,,
+Adversaire,Duel gagne,Duels,2,,,,,22,,0.0977,0.6262,,
+Adversaire,Duel gagne,Duels,2,,,,,22,,0.0801,0.7414,,
+Adversaire,Duel gagne,Duels,2,,,,,19,,0.4512,0.1277,,
+Adversaire,Duel gagne,Duels,2,,,,,19,,0.2012,0.2679,,
+Adversaire,Duel gagne,Duels,2,,,,,19,,0.3477,0.4579,,
+Adversaire,Duel gagne,Duels,2,,,,,18,,0.2656,0.6885,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.6543,0.1090,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.8984,0.0810,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.9238,0.0841,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.9434,0.0841,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.8301,0.1277,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.5234,0.1402,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.2461,0.6636,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.6523,0.7850,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.6719,0.8162,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.5625,0.8069,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.5469,0.9065,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.1035,0.8972,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.6465,0.8505,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.6719,0.8816,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.3691,0.8505,,
+Adversaire,BALL LOST,Duels,2,,,,,11,,0.8867,0.7040,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.1230,0.1900,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.1895,0.0654,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.3926,0.2087,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.4238,0.1526,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.6602,0.3209,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.7109,0.2679,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.8730,0.3022,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.7891,0.3614,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.7227,0.6885,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.7813,0.6822,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.6113,0.6822,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.6602,0.2648,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.6602,0.2368,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.6699,0.1464,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.8496,0.1713,,
+Adversaire,BALL LOST,Duels,2,,,,,77,,0.6641,0.2960,,
+Adversaire,BALL LOST,Duels,2,,,,,17,,0.6934,0.0935,,
+Adversaire,BALL LOST,Duels,2,,,,,17,,0.5566,0.0966,,
+Adversaire,BALL LOST,Duels,2,,,,,17,,0.3477,0.1215,,
+Adversaire,BALL LOST,Duels,2,,,,,17,,0.1680,0.2056,,
+Adversaire,BALL LOST,Duels,2,,,,,17,,0.4355,0.4486,,
+Adversaire,BALL LOST,Duels,2,,,,,17,,0.6445,0.5701,,
+Adversaire,BALL LOST,Duels,2,,,,,17,,0.5781,0.3396,,
+Adversaire,BALL LOST,Duels,2,,,,,17,,0.4316,0.5888,,
+Adversaire,BALL LOST,Duels,2,,,,,17,,0.4512,0.5888,,
+Adversaire,BALL LOST,Duels,2,,,,,17,,0.4082,0.6667,,
+Adversaire,BALL LOST,Duels,2,,,,,17,,0.6641,0.8442,,
+Adversaire,BALL LOST,Duels,2,,,,,17,,0.6445,0.2555,,
+Adversaire,BALL LOST,Duels,2,,,,,17,,0.4531,0.1745,,
+Adversaire,BALL LOST,Duels,2,,,,,20,,0.5430,0.4984,,
+Adversaire,BALL LOST,Duels,2,,,,,20,,0.4883,0.6667,,
+Adversaire,BALL LOST,Duels,2,,,,,20,,0.4414,0.6417,,
+Adversaire,BALL LOST,Duels,2,,,,,20,,0.7734,0.7508,,
+Adversaire,BALL LOST,Duels,2,,,,,20,,0.3281,0.4517,,
+Adversaire,BALL LOST,Duels,2,,,,,20,,0.1016,0.4517,,
+Adversaire,BALL LOST,Duels,2,,,,,20,,0.0566,0.9221,,
+Adversaire,BALL LOST,Duels,2,,,,,20,,0.2500,0.8598,,
+Adversaire,BALL LOST,Duels,2,,,,,20,,0.4102,0.8972,,
+Adversaire,BALL LOST,Duels,2,,,,,20,,0.7930,0.9003,,
+Adversaire,BALL LOST,Duels,2,,,,,20,,0.6797,0.2555,,
+Adversaire,BALL LOST,Duels,2,,,,,20,,0.5820,0.3022,,
+Adversaire,BALL LOST,Duels,2,,,,,20,,0.6113,0.3520,,
+Adversaire,BALL LOST,Duels,2,,,,,21,,0.8105,0.5639,,
+Adversaire,BALL LOST,Duels,2,,,,,21,,0.8320,0.9346,,
+Adversaire,BALL LOST,Duels,2,,,,,21,,0.6934,0.7009,,
+Adversaire,BALL LOST,Duels,2,,,,,21,,0.7402,0.7850,,
+Adversaire,BALL LOST,Duels,2,,,,,21,,0.5684,0.4704,,
+Adversaire,BALL LOST,Duels,2,,,,,21,,0.7012,0.4424,,
+Adversaire,BALL LOST,Duels,2,,,,,21,,0.2969,0.5607,,
+Adversaire,BALL LOST,Duels,2,,,,,21,,0.3965,0.8287,,
+Adversaire,BALL LOST,Duels,2,,,,,21,,0.3984,0.8536,,
+Adversaire,BALL LOST,Duels,2,,,,,21,,0.2051,0.8910,,
+Adversaire,BALL LOST,Duels,2,,,,,21,,0.2676,0.9034,,
+Adversaire,BALL LOST,Duels,2,,,,,21,,0.3574,0.8505,,
+Adversaire,BALL LOST,Duels,2,,,,,6,,0.0742,0.4268,,
+Adversaire,BALL LOST,Duels,2,,,,,6,,0.2090,0.8100,,
+Adversaire,BALL LOST,Duels,2,,,,,6,,0.3633,0.4611,,
+Adversaire,BALL LOST,Duels,2,,,,,6,,0.3223,0.5358,,
+Adversaire,BALL LOST,Duels,2,,,,,6,,0.4727,0.4081,,
+Adversaire,BALL LOST,Duels,2,,,,,6,,0.3535,0.8037,,
+Adversaire,BALL LOST,Duels,2,,,,,6,,0.3379,0.8318,,
+Adversaire,BALL LOST,Duels,2,,,,,6,,0.6445,0.3053,,
+Adversaire,BALL LOST,Duels,2,,,,,6,,0.2734,0.1931,,
+Adversaire,BALL LOST,Duels,2,,,,,4,,0.0938,0.2866,,
+Adversaire,BALL LOST,Duels,2,,,,,4,,0.2988,0.0717,,
+Adversaire,BALL LOST,Duels,2,,,,,4,,0.3164,0.0717,,
+Adversaire,BALL LOST,Duels,2,,,,,4,,0.4805,0.1838,,
+Adversaire,BALL LOST,Duels,2,,,,,4,,0.5527,0.2087,,
+Adversaire,BALL LOST,Duels,2,,,,,4,,0.8633,0.2025,,
+Adversaire,BALL LOST,Duels,2,,,,,4,,0.6250,0.3364,,
+Adversaire,BALL LOST,Duels,2,,,,,16,,0.2461,0.7040,,
+Adversaire,BALL LOST,Duels,2,,,,,16,,0.2246,0.7227,,
+Adversaire,BALL LOST,Duels,2,,,,,16,,0.4180,0.8006,,
+Adversaire,BALL LOST,Duels,2,,,,,16,,0.7617,0.8723,,
+Adversaire,BALL LOST,Duels,2,,,,,16,,0.0684,0.8972,,
+Adversaire,BALL LOST,Duels,2,,,,,16,,0.2285,0.8629,,
+Adversaire,BALL LOST,Duels,2,,,,,5,,0.1426,0.6760,,
+Adversaire,BALL LOST,Duels,2,,,,,5,,0.2246,0.7757,,
+Adversaire,BALL LOST,Duels,2,,,,,5,,0.4238,0.5016,,
+Adversaire,BALL LOST,Duels,2,,,,,5,,0.1465,0.1589,,
+Adversaire,BALL LOST,Duels,2,,,,,27,,0.6426,0.2181,,
+Adversaire,BALL LOST,Duels,2,,,,,27,,0.7539,0.4766,,
+Adversaire,BALL LOST,Duels,2,,,,,27,,0.6875,0.8816,,
+Adversaire,BALL LOST,Duels,2,,,,,19,,0.2656,0.4766,,
+Adversaire,BALL LOST,Duels,2,,,,,19,,0.3965,0.3146,,
+Adversaire,SHOT,,2,,,,,77,,0.8516,0.6199,,
+Adversaire,SHOT,,2,,,,,17,,0.8105,0.4112,,
+Adversaire,SHOT,,2,,,,,4,,0.7070,0.1807,,
+Adversaire,SHOT,,2,,,,,21,,0.7656,0.2617,,
+Adversaire,SHOT,,2,,,,,11,,0.9102,0.3084,,
+Adversaire,SHOT,,2,,,,,77,,0.8164,0.4330,,
+Adversaire,Box,,2,,,,,77,,0.8379,0.5981,,
+Adversaire,Box,,2,,,,,77,,0.9121,0.7632,,
+Adversaire,Box,,2,,,,,11,,0.9336,0.3022,,
+Adversaire,Box,,2,,,,,11,,0.9219,0.3364,,
+Adversaire,Box,,2,,,,,21,,0.8496,0.6511,,
+Adversaire,Recovery,,2,,,,,17,,0.3574,0.4486,,
+Adversaire,Recovery,,2,,,,,17,,0.3477,0.3801,,
+Adversaire,Recovery,,2,,,,,17,,0.4805,0.3551,,
+Adversaire,Recovery,,2,,,,,17,,0.6777,0.3333,,
+Adversaire,Recovery,,2,,,,,17,,0.6777,0.1308,,
+Adversaire,Recovery,,2,,,,,17,,0.6016,0.1464,,
+Adversaire,Recovery,,2,,,,,17,,0.6094,0.1869,,
+Adversaire,Recovery,,2,,,,,17,,0.5703,0.7009,,
+Adversaire,Recovery,,2,,,,,17,,0.2344,0.8442,,
+Adversaire,Recovery,,2,,,,,17,,0.3418,0.2523,,
+Adversaire,Recovery,,2,,,,,17,,0.2344,0.1277,,
+Adversaire,Recovery,,2,,,,,17,,0.3574,0.6386,,
+Adversaire,Recovery,,2,,,,,17,,0.1602,0.2617,,
+Adversaire,Recovery,,2,,,,,17,,0.4121,0.5265,,
+Adversaire,Recovery,,2,,,,,16,,0.1973,0.8598,,
+Adversaire,Recovery,,2,,,,,16,,0.0918,0.9315,,
+Adversaire,Recovery,,2,,,,,16,,0.1348,0.7165,,
+Adversaire,Recovery,,2,,,,,16,,0.2813,0.6760,,
+Adversaire,Recovery,,2,,,,,16,,0.3418,0.5327,,
+Adversaire,Recovery,,2,,,,,16,,0.1699,0.6854,,
+Adversaire,Recovery,,2,,,,,16,,0.1992,0.7072,,
+Adversaire,Recovery,,2,,,,,16,,0.2383,0.7103,,
+Adversaire,Recovery,,2,,,,,16,,0.3320,0.7445,,
+Adversaire,Recovery,,2,,,,,16,,0.1797,0.7103,,
+Adversaire,Recovery,,2,,,,,16,,0.1719,0.6449,,
+Adversaire,Recovery,,2,,,,,4,,0.1816,0.2960,,
+Adversaire,Recovery,,2,,,,,4,,0.1680,0.2305,,
+Adversaire,Recovery,,2,,,,,4,,0.1758,0.3240,,
+Adversaire,Recovery,,2,,,,,4,,0.2656,0.3551,,
+Adversaire,Recovery,,2,,,,,4,,0.2344,0.3364,,
+Adversaire,Recovery,,2,,,,,4,,0.2246,0.3956,,
+Adversaire,Recovery,,2,,,,,4,,0.2266,0.1931,,
+Adversaire,Recovery,,2,,,,,4,,0.0879,0.4704,,
+Adversaire,Recovery,,2,,,,,4,,0.3516,0.2118,,
+Adversaire,Recovery,,2,,,,,4,,0.3672,0.1963,,
+Adversaire,Recovery,,2,,,,,4,,0.1348,0.1620,,
+Adversaire,Recovery,,2,,,,,5,,0.3008,0.8100,,
+Adversaire,Recovery,,2,,,,,5,,0.3125,0.6667,,
+Adversaire,Recovery,,2,,,,,5,,0.3379,0.6511,,
+Adversaire,Recovery,,2,,,,,5,,0.1563,0.7040,,
+Adversaire,Recovery,,2,,,,,5,,0.1367,0.6106,,
+Adversaire,Recovery,,2,,,,,5,,0.1699,0.5950,,
+Adversaire,Recovery,,2,,,,,5,,0.1309,0.7414,,
+Adversaire,Recovery,,2,,,,,5,,0.3398,0.7227,,
+Adversaire,Recovery,,2,,,,,5,,0.3594,0.6355,,
+Adversaire,Recovery,,2,,,,,5,,0.3594,0.6293,,
+Adversaire,Recovery,,2,,,,,5,,0.1582,0.6822,,
+Adversaire,Recovery,,2,,,,,6,,0.3906,0.6916,,
+Adversaire,Recovery,,2,,,,,6,,0.2617,0.8816,,
+Adversaire,Recovery,,2,,,,,6,,0.3281,0.7570,,
+Adversaire,Recovery,,2,,,,,6,,0.3945,0.1682,,
+Adversaire,Recovery,,2,,,,,6,,0.5547,0.2617,,
+Adversaire,Recovery,,2,,,,,6,,0.6328,0.4735,,
+Adversaire,Recovery,,2,,,,,6,,0.1523,0.2897,,
+Adversaire,Recovery,,2,,,,,20,,0.2930,0.5327,,
+Adversaire,Recovery,,2,,,,,20,,0.0938,0.4393,,
+Adversaire,Recovery,,2,,,,,20,,0.1914,0.6386,,
+Adversaire,Recovery,,2,,,,,20,,0.1035,0.8598,,
+Adversaire,Recovery,,2,,,,,20,,0.5820,0.8287,,
+Adversaire,Recovery,,2,,,,,20,,0.4297,0.7913,,
+Adversaire,Recovery,,2,,,,,20,,0.3203,0.8692,,
+Adversaire,Recovery,,2,,,,,19,,0.1211,0.1464,,
+Adversaire,Recovery,,2,,,,,19,,0.2012,0.2710,,
+Adversaire,Recovery,,2,,,,,19,,0.1113,0.3894,,
+Adversaire,Recovery,,2,,,,,19,,0.2715,0.2523,,
+Adversaire,Recovery,,2,,,,,19,,0.2969,0.4548,,
+Adversaire,Recovery,,2,,,,,19,,0.4512,0.1153,,
+Adversaire,Recovery,,2,,,,,22,,0.0703,0.5202,,
+Adversaire,Recovery,,2,,,,,22,,0.0898,0.5639,,
+Adversaire,Recovery,,2,,,,,22,,0.0957,0.6137,,
+Adversaire,Recovery,,2,,,,,22,,0.0742,0.7477,,
+Adversaire,Recovery,,2,,,,,22,,0.2656,0.4673,,
+Adversaire,Recovery,,2,,,,,77,,0.3535,0.1682,,
+Adversaire,Recovery,,2,,,,,77,,0.4668,0.2804,,
+Adversaire,Recovery,,2,,,,,77,,0.6230,0.3053,,
+Adversaire,Recovery,,2,,,,,77,,0.6113,0.2150,,
+Adversaire,Recovery,,2,,,,,77,,0.6914,0.5327,,
+Adversaire,Recovery,,2,,,,,11,,0.1445,0.9408,,
+Adversaire,Recovery,,2,,,,,11,,0.6230,0.8037,,
+Adversaire,Recovery,,2,,,,,11,,0.6875,0.8162,,
+Adversaire,Recovery,,2,,,,,11,,0.3750,0.7414,,
+Adversaire,Recovery,,2,,,,,21,,0.4160,0.7664,,
+Adversaire,Recovery,,2,,,,,21,,0.1992,0.8816,,
+Adversaire,Recovery,,2,,,,,18,,0.2656,0.7040,,
+Adversaire,BALL LOST,Goal-kick,2,,,,,22,,0.0859,0.4143,0.6230,0.2960
+Adversaire,BALL LOST,Goal-kick,2,,,,,22,,0.0840,0.5919,0.6660,0.9408
+Adversaire,BALL LOST,Goal-kick,2,,,,,22,,0.0840,0.5639,0.6875,0.7165
+Adversaire,BALL LOST,Goal-kick,2,,,,,22,,0.0840,0.3894,0.6953,0.0966
+Adversaire,BALL LOST,Goal-kick,2,,,,,22,,0.0840,0.5732,0.6563,0.8442
+Adversaire,BALL LOST,Goal-kick,2,,,,,22,,0.0840,0.6075,0.6699,0.7632
+Adversaire,BALL LOST,Goal-kick,2,,,,,22,,0.0840,0.4361,0.6094,0.2804
+Adversaire,BALL LOST,Goal-kick,2,,,,,22,,0.0840,0.5888,0.6445,0.5421
+Adversaire,BALL LOST,Goal-kick,2,,,,,22,,0.0820,0.4206,0.6406,0.1620
+Adversaire,BALL LOST,Goal-kick,2,,,,,22,,0.0840,0.6044,0.7207,0.9190
+Adversaire,BALL LOST,Goal-kick,2,,,,,22,,0.0820,0.4299,0.6777,0.2960
+Adversaire,BALL LOST,Goal-kick,2,,,,,22,,0.0859,0.5981,0.6758,0.9128
+Adversaire,BALL LOST,Goal-kick,2,,,,,22,,0.0820,0.4237,0.6660,0.1121
+Adversaire,BALL LOST,Goal-kick,2,,,,,22,,0.0840,0.3988,0.6367,0.2555
+Adversaire,Centre,Cross,2,,,,,77,,0.9199,0.7664,0.8184,0.1371
+Adversaire,centre rate,Cross,2,,,,,11,,0.9102,0.8318,0.9141,0.8037
+Adversaire,centre rate,Cross,2,,,,,11,,0.8633,0.8660,0.8887,0.4891
+Adversaire,centre rate,Cross,2,,,,,11,,0.9336,0.2835,0.9570,0.6791
+Adversaire,centre rate,Cross,2,,,,,4,,0.9004,0.1464,0.9043,0.1838
+Adversaire,centre rate,Cross,2,,,,,4,,0.8418,0.1059,0.7754,0.9657
+Adversaire,centre rate,Cross,2,,,,,4,,0.7949,0.1184,0.8301,0.3676
+Adversaire,centre rate,Cross,2,,,,,21,,0.6738,0.1963,0.8320,0.5576
+Adversaire,CORNER,CORNER,2,,,,,21,,0.9629,0.9751,0.9434,0.6511
+Adversaire,CORNER,CORNER,2,,,,,21,,0.9629,0.9657,0.9160,0.6262
+Adversaire,BALL LOST,Through,2,,,,,6,,0.4980,0.3333,0.5840,0.2835
+Adversaire,BALL LOST,Through,2,,,,,17,,0.4531,0.2991,0.6465,0.3863
+Adversaire,BALL LOST,Through,2,,,,,17,,0.4395,0.3863,0.8027,0.4735
+Adversaire,derriere la ligne,Through,2,,,,,11,,0.4121,0.9034,0.7852,0.7352
+Adversaire,derriere la ligne,Through,2,,,,,21,,0.7266,0.6573,0.8281,0.5981
+Adversaire,derriere la ligne,Through,2,,,,,21,,0.5039,0.6355,0.8398,0.7850
+Adversaire,derriere la ligne,Through,2,,,,,21,,0.6875,0.7788,0.8418,0.7009
+Adversaire,,Key Passes,2,,,,,17,,0.6543,0.3551,0.7793,0.3645
+Adversaire,,Key Passes,2,,,,,21,,0.8281,0.5981,0.5039,0.6355
+Adversaire,,Key Passes,2,,,,,21,,0.7500,0.3801,0.7910,0.3458
+Adversaire,Tirs Assists,Assists to Shots,2,,,,,21,77,0.7188,0.6324,0.8281,0.5794
+Adversaire,Tirs Assists,Assists to Shots,2,,,,,21,17,0.7461,0.3894,0.7969,0.3302
+Adversaire,Tirs Assists,Assists to Shots,2,,,,,17,77,0.6992,0.3988,0.7598,0.4174
+Adversaire,Tirs Assists,Assists to Shots,2,,,,,6,11,0.5234,0.4611,0.8789,0.2648
+Adversaire,dribble reussi,Dribbles,2,,,,,19,178,0.3574,0.4455,,
+Adversaire,dribble reussi,Dribbles,2,,,,,4,267,0.7227,0.1682,,
+Adversaire,BALL LOST,Dribbles,2,,,,,4,259,0.8555,0.1931,,
+Adversaire,dribble reussi,Dribbles,2,,,,,6,233,0.1289,0.2741,,
+Adversaire,dribble reussi,Dribbles,2,,,,,6,28,0.3555,0.9128,,
+Adversaire,dribble reussi,Dribbles,2,,,,,77,70,0.8438,0.7819,,
+Adversaire,BALL LOST,Dribbles,2,,,,,77,228,0.8672,0.2897,,
+Adversaire,BALL LOST,Dribbles,2,,,,,77,206,0.7949,0.3583,,
+Adversaire,BALL LOST,Dribbles,2,,,,,77,305,0.1973,0.0498,,
+Adversaire,dribble reussi,Dribbles,2,,,,,17,244,0.4375,0.2399,,
+Adversaire,dribble reussi,Dribbles,2,,,,,17,223,0.4336,0.3053,,
+Adversaire,dribble reussi,Dribbles,2,,,,,17,216,0.4023,0.3271,,
+Adversaire,dribble reussi,Dribbles,2,,,,,17,269,0.5449,0.1620,,
+Adversaire,BALL LOST,Dribbles,2,,,,,17,277,0.3867,0.1371,,
+Adversaire,BALL LOST,Dribbles,2,,,,,17,117,0.6172,0.6355,,
+Adversaire,dribble reussi,Dribbles,2,,,,,20,40,0.3281,0.8754,,
+Adversaire,BALL LOST,Dribbles,2,,,,,20,38,0.7910,0.8816,,
+Adversaire,dribble reussi,Dribbles,2,,,,,11,237,0.8438,0.2617,,
+Adversaire,dribble reussi,Dribbles,2,,,,,11,206,0.8477,0.3583,,
+Adversaire,dribble reussi,Dribbles,2,,,,,11,51,0.8457,0.8411,,
+Adversaire,dribble reussi,Dribbles,2,,,,,11,91,0.8730,0.7165,,
+Adversaire,BALL LOST,Dribbles,2,,,,,11,27,0.5273,0.9159,,
+Adversaire,BALL LOST,Dribbles,2,,,,,11,56,0.5488,0.8255,,
+Adversaire,BALL LOST,Dribbles,2,,,,,11,52,0.6426,0.8380,,
+Adversaire,dribble reussi,Dribbles,2,,,,,21,258,0.7363,0.1963,,
+Adversaire,dribble reussi,Dribbles,2,,,,,21,242,0.6445,0.2461,,
+Adversaire,dribble reussi,Dribbles,2,,,,,21,96,0.4453,0.7009,,
+Adversaire,dribble reussi,Dribbles,2,,,,,21,80,0.4180,0.7508,,
+Adversaire,BALL LOST,Dribbles,2,,,,,21,54,0.4043,0.8318,,
+Adversaire,dribble reussi,Dribbles,2,,,,,17,145,0.4824,0.5483,,
+Wydad,PASS,,1,,,,,26,,0.3066,0.8723,0.0801,0.5078
+Wydad,PASS,,1,,,,,26,,0.2734,0.3707,0.1426,0.6854
+Wydad,PASS,,1,,,,,26,,0.2910,0.3738,0.2070,0.5078
+Wydad,PASS,,1,,,,,26,,0.3926,0.2555,0.2793,0.5421
+Wydad,PASS,,1,,,,,26,,0.3828,0.3583,0.2813,0.4611
+Wydad,PASS,,1,,,,,26,,0.6641,0.2679,0.2012,0.4642
+Wydad,PASS,,1,,,,,26,,0.6289,0.3738,0.1582,0.5202
+Wydad,PASS,,1,,,,,26,,0.4336,0.1776,0.1074,0.2430
+Wydad,PASS,,1,,,,,26,,0.1855,0.7227,0.0684,0.4237
+Wydad,PASS,,1,,,,,26,,0.1465,0.4081,0.0859,0.5576
+Wydad,PASS,,1,,,,,26,,0.3301,0.8816,0.1055,0.3801
+Wydad,PASS,,1,,,,,26,,0.4160,0.8660,0.1016,0.5047
+Wydad,PASS,,1,,,,,26,,0.2539,0.6324,0.1582,0.4081
+Wydad,PASS,,1,,,,,26,,0.1602,0.3707,0.1367,0.6199
+Wydad,PASS,,1,,,,,26,,0.2715,0.7975,0.0996,0.4206
+Wydad,PASS,,1,,,,,26,,0.3086,0.8287,0.1094,0.5358
+Wydad,PASS,,1,,,,,26,,0.2207,0.3209,0.1367,0.5078
+Wydad,PASS,,1,,,,,26,,0.3047,0.2617,0.2012,0.3676
+Wydad,PASS,,1,,,,,26,,0.3418,0.1433,0.1602,0.5047
+Wydad,PASS,,1,,,,,26,,0.2832,0.3022,0.1914,0.5078
+Wydad,PASS,,1,,,,,26,,0.3008,0.6417,0.2461,0.4984
+Wydad,PASS,,1,,,,,26,,0.2891,0.5857,0.2461,0.5358
+Wydad,PASS,,1,,,,,26,,0.3652,0.3364,0.2988,0.5265
+Wydad,PASS,,1,,,,,26,,0.1777,0.5171,0.1543,0.4860
+Wydad,PASS,,1,,,,,26,,0.1602,0.5483,0.1328,0.4143
+Wydad,PASS,,1,,,,,26,,0.1816,0.5950,0.1309,0.4486
+Wydad,PASS,,1,,,,,3,,0.8398,0.5576,0.7070,0.8536
+Wydad,PASS,,1,,,,,3,,0.5840,0.3364,0.4102,0.3614
+Wydad,PASS,,1,,,,,3,,0.5176,0.3209,0.4707,0.5981
+Wydad,PASS,,1,,,,,3,,0.5547,0.2430,0.5293,0.3614
+Wydad,PASS,,1,,,,,3,,0.7188,0.2804,0.4980,0.2835
+Wydad,PASS,,1,,,,,3,,0.8145,0.1153,0.3594,0.5576
+Wydad,PASS,,1,,,,,3,,0.7930,0.1340,0.4336,0.6168
+Wydad,PASS,,1,,,,,3,,0.6152,0.6511,0.5430,0.7383
+Wydad,PASS,,1,,,,,3,,0.5820,0.6293,0.4902,0.7383
+Wydad,PASS,,1,,,,,3,,0.7598,0.7259,0.4160,0.6636
+Wydad,PASS,,1,,,,,3,,0.5430,0.8816,0.1152,0.9128
+Wydad,PASS,,1,,,,,3,,0.8105,0.9252,0.4766,0.7383
+Wydad,PASS,,1,,,,,3,,0.7910,0.7290,0.5391,0.6947
+Wydad,PASS,,1,,,,,3,,0.8867,0.7103,0.4141,0.6667
+Wydad,PASS,,1,,,,,3,,0.9102,0.2648,0.3652,0.6293
+Wydad,PASS,,1,,,,,3,,0.8242,0.2773,0.4629,0.5234
+Wydad,PASS,,1,,,,,3,,0.6660,0.6729,0.4766,0.6417
+Wydad,PASS,,1,,,,,3,,0.5430,0.8006,0.4766,0.7196
+Wydad,PASS,,1,,,,,3,,0.5957,0.8006,0.4785,0.7352
+Wydad,PASS,,1,,,,,3,,0.5137,0.9128,0.3457,0.6604
+Wydad,PASS,,1,,,,,3,,0.5195,0.3178,0.4746,0.5888
+Wydad,PASS,,1,,,,,3,,0.2148,0.3053,0.1504,0.5296
+Wydad,PASS,,1,,,,,3,,0.5352,0.6978,0.4707,0.5545
+Wydad,PASS,,1,,,,,3,,0.6133,0.6449,0.5371,0.7414
+Wydad,PASS,,1,,,,,3,,0.5781,0.6293,0.4902,0.7259
+Wydad,PASS,,1,,,,,3,,0.4512,0.7196,0.2754,0.6573
+Wydad,PASS,,1,,,,,3,,0.2383,0.4237,0.2598,0.8505
+Wydad,PASS,,1,,,,,3,,0.2480,0.3551,0.2246,0.5857
+Wydad,PASS,,1,,,,,3,,0.2734,0.2804,0.2773,0.6916
+Wydad,PASS,,1,,,,,3,,0.3438,0.3333,0.1504,0.3302
+Wydad,PASS,,1,,,,,3,,0.2910,0.3396,0.3164,0.5857
+Wydad,PASS,,1,,,,,3,,0.4453,0.4143,0.4609,0.6698
+Wydad,PASS,,1,,,,,3,,0.4570,0.4299,0.5078,0.7352
+Wydad,PASS,,1,,,,,3,,0.4297,0.4642,0.4004,0.5794
+Wydad,PASS,,1,,,,,3,,0.4063,0.4673,0.3066,0.4922
+Wydad,PASS,,1,,,,,3,,0.3691,0.2430,0.2969,0.6137
+Wydad,PASS,,1,,,,,3,,0.3711,0.3240,0.3125,0.6573
+Wydad,PASS,,1,,,,,3,,0.3730,0.3769,0.4238,0.6729
+Wydad,PASS,,1,,,,,3,,0.3594,0.3645,0.3086,0.5639
+Wydad,PASS,,1,,,,,3,,0.3125,0.3489,0.2891,0.4922
+Wydad,PASS,,1,,,,,3,,0.3594,0.7477,0.2734,0.4766
+Wydad,PASS,,1,,,,,3,,0.4434,0.8318,0.3301,0.7259
+Wydad,PASS,,1,,,,,3,,0.3965,0.8847,0.2266,0.6729
+Wydad,PASS,,1,,,,,3,,0.4063,0.8910,0.3047,0.6231
+Wydad,PASS,,1,,,,,3,,0.1465,0.6978,0.3867,0.8006
+Wydad,PASS,,1,,,,,3,,0.3086,0.8411,0.2773,0.5732
+Wydad,PASS,,1,,,,,3,,0.1113,0.3676,0.1133,0.4798
+Wydad,PASS,,1,,,,,3,,0.4043,0.3209,0.3164,0.6231
+Wydad,PASS,,1,,,,,3,,0.3438,0.6417,0.4707,0.7788
+Wydad,PASS,,1,,,,,3,,0.3887,0.7072,0.2832,0.7601
+Wydad,PASS,,1,,,,,3,,0.4844,0.2087,0.4023,0.7819
+Wydad,PASS,,1,,,,,3,,0.4414,0.5763,0.4160,0.7445
+Wydad,PASS,,1,,,,,3,,0.4414,0.6542,0.3789,0.6822
+Wydad,PASS,,1,,,,,3,,0.5840,0.3364,0.4043,0.3676
+Wydad,PASS,,1,,,,,3,,0.4336,0.4984,0.3516,0.5607
+Wydad,PASS,,1,,,,,24,,0.9004,0.6573,0.5605,0.5047
+Wydad,PASS,,1,,,,,24,,0.0820,0.5701,0.1621,0.3738
+Wydad,PASS,,1,,,,,24,,0.2617,0.1308,0.1563,0.1994
+Wydad,PASS,,1,,,,,24,,0.0684,0.2710,0.1680,0.1745
+Wydad,PASS,,1,,,,,24,,0.0723,0.4112,0.1035,0.2586
+Wydad,PASS,,1,,,,,24,,0.1113,0.2336,0.1152,0.3520
+Wydad,PASS,,1,,,,,24,,0.0781,0.4953,0.1426,0.2243
+Wydad,PASS,,1,,,,,24,,0.1035,0.4922,0.1582,0.1433
+Wydad,PASS,,1,,,,,24,,0.1035,0.3988,0.3535,0.3084
+Wydad,PASS,,1,,,,,24,,0.2422,0.4112,0.1699,0.3458
+Wydad,PASS,,1,,,,,24,,0.6855,0.9283,0.2637,0.4206
+Wydad,PASS,,1,,,,,24,,0.2227,0.6573,0.2969,0.3240
+Wydad,PASS,,1,,,,,24,,0.3496,0.1121,0.1934,0.6231
+Wydad,PASS,,1,,,,,24,,0.3867,0.1340,0.2578,0.1776
+Wydad,PASS,,1,,,,,24,,0.4043,0.1090,0.3066,0.2617
+Wydad,PASS,,1,,,,,24,,0.4121,0.1277,0.2266,0.3115
+Wydad,PASS,,1,,,,,24,,0.4375,0.1838,0.3613,0.1745
+Wydad,PASS,,1,,,,,24,,0.4258,0.1464,0.3633,0.3551
+Wydad,PASS,,1,,,,,24,,0.6484,0.9003,0.3496,0.3271
+Wydad,PASS,,1,,,,,24,,0.7754,0.8816,0.3867,0.3458
+Wydad,PASS,,1,,,,,24,,0.8652,0.8287,0.4297,0.5047
+Wydad,PASS,,1,,,,,24,,0.6211,0.2617,0.4160,0.2274
+Wydad,PASS,,1,,,,,24,,0.2754,0.5576,0.2441,0.2555
+Wydad,PASS,,1,,,,,24,,0.2520,0.5109,0.4277,0.2741
+Wydad,PASS,,1,,,,,24,,0.4063,0.8380,0.3027,0.3583
+Wydad,PASS,,1,,,,,24,,0.3867,0.7975,0.4141,0.3396
+Wydad,PASS,,1,,,,,24,,0.3438,0.6604,0.3301,0.3364
+Wydad,PASS,,1,,,,,24,,0.3555,0.4735,0.2754,0.3738
+Wydad,PASS,,1,,,,,24,,0.3477,0.5171,0.3164,0.3396
+Wydad,PASS,,1,,,,,24,,0.2910,0.5202,0.2910,0.2710
+Wydad,PASS,,1,,,,,24,,0.7871,0.3333,0.5684,0.4798
+Wydad,PASS,,1,,,,,24,,0.7402,0.3115,0.5410,0.7726
+Wydad,PASS,,1,,,,,24,,0.5664,0.4174,0.5098,0.4268
+Wydad,PASS,,1,,,,,24,,0.5020,0.4611,0.4434,0.5639
+Wydad,PASS,,1,,,,,24,,0.6074,0.1121,0.5586,0.2274
+Wydad,PASS,,1,,,,,24,,0.5879,0.1340,0.4277,0.3801
+Wydad,PASS,,1,,,,,24,,0.6152,0.4517,0.6270,0.3022
+Wydad,PASS,,1,,,,,24,,0.6074,0.3146,0.5117,0.3146
+Wydad,PASS,,1,,,,,24,,0.8926,0.0654,0.3340,0.2866
+Wydad,PASS,,1,,,,,24,,0.4551,0.2523,0.2949,0.2897
+Wydad,PASS,,1,,,,,24,,0.4629,0.3022,0.3730,0.2243
+Wydad,PASS,,1,,,,,24,,0.4434,0.3738,0.4805,0.2087
+Wydad,PASS,,1,,,,,24,,0.4297,0.4735,0.4629,0.3489
+Wydad,PASS,,1,,,,,24,,0.4473,0.6978,0.4727,0.3769
+Wydad,PASS,,1,,,,,24,,0.6582,0.8910,0.4453,0.4579
+Wydad,PASS,,1,,,,,24,,0.7578,0.2804,0.3535,0.4517
+Wydad,PASS,,1,,,,,24,,0.7637,0.2274,0.3555,0.2928
+Wydad,PASS,,1,,,,,24,,0.8848,0.1059,0.5391,0.2523
+Wydad,PASS,,1,,,,,24,,0.7930,0.1184,0.4688,0.5639
+Wydad,PASS,,1,,,,,24,,0.4434,0.2960,0.3750,0.3520
+Wydad,PASS,,1,,,,,24,,0.3730,0.2679,0.3164,0.1620
+Wydad,PASS,,1,,,,,24,,0.2813,0.2991,0.2891,0.4673
+Wydad,PASS,,1,,,,,24,,0.2949,0.6231,0.2637,0.3520
+Wydad,PASS,,1,,,,,24,,0.3066,0.5296,0.2676,0.4424
+Wydad,PASS,,1,,,,,24,,0.3066,0.5701,0.2754,0.4112
+Wydad,PASS,,1,,,,,24,,0.4668,0.7632,0.3691,0.2960
+Wydad,PASS,,1,,,,,24,,0.4590,0.6885,0.4707,0.4268
+Wydad,PASS,,1,,,,,24,,0.4688,0.5981,0.4688,0.5047
+Wydad,PASS,,1,,,,,24,,0.4551,0.3769,0.3203,0.4393
+Wydad,PASS,,1,,,,,24,,0.3008,0.5981,0.3262,0.4112
+Wydad,PASS,,1,,,,,24,,0.5020,0.3053,0.4941,0.2243
+Wydad,PASS,,1,,,,,24,,0.5430,0.2212,0.4434,0.2710
+Wydad,PASS,,1,,,,,24,,0.5176,0.2212,0.4707,0.3209
+Wydad,PASS,,1,,,,,24,,0.3496,0.1558,0.3086,0.2523
+Wydad,PASS,,1,,,,,24,,0.2969,0.5607,0.2734,0.4704
+Wydad,PASS,,1,,,,,24,,0.4355,0.2523,0.3477,0.2741
+Wydad,PASS,,1,,,,,24,,0.4727,0.2430,0.4121,0.2960
+Wydad,PASS,,1,,,,,24,,0.2832,0.4330,0.2793,0.3302
+Wydad,PASS,,1,,,,,24,,0.3066,0.5296,0.4043,0.4019
+Wydad,PASS,,1,,,,,24,,0.2813,0.5109,0.2891,0.3551
+Wydad,PASS,,1,,,,,24,,0.2871,0.4891,0.2617,0.3832
+Wydad,PASS,,1,,,,,9,,0.8926,0.3707,0.7578,0.3489
+Wydad,PASS,,1,,,,,9,,0.3516,0.5327,0.4805,0.6542
+Wydad,PASS,,1,,,,,9,,0.3926,0.7040,0.4160,0.7788
+Wydad,PASS,,1,,,,,9,,0.5391,0.4424,0.5000,0.4891
+Wydad,PASS,,1,,,,,9,,0.6445,0.1838,0.6406,0.3707
+Wydad,PASS,,1,,,,,9,,0.7090,0.7134,0.6641,0.3925
+Wydad,PASS,,1,,,,,9,,0.6934,0.4548,0.7207,0.7477
+Wydad,PASS,,1,,,,,9,,0.7813,0.3271,0.6660,0.5483
+Wydad,PASS,,1,,,,,9,,0.8984,0.7196,0.7539,0.6324
+Wydad,PASS,,1,,,,,9,,0.8965,0.8131,0.9160,0.6604
+Wydad,PASS,,1,,,,,9,,0.6309,0.6978,0.6797,0.7850
+Wydad,PASS,,1,,,,,9,,0.6016,0.7695,0.6035,0.8847
+Wydad,PASS,,1,,,,,11,,0.7988,0.1713,0.7969,0.2835
+Wydad,PASS,,1,,,,,11,,0.8398,0.1558,0.8066,0.1028
+Wydad,PASS,,1,,,,,11,,0.6484,0.4642,0.6875,0.2056
+Wydad,PASS,,1,,,,,11,,0.7109,0.6822,0.7285,0.5016
+Wydad,PASS,,1,,,,,11,,0.5391,0.8100,0.5977,0.8723
+Wydad,PASS,,1,,,,,11,,0.4727,0.8100,0.6152,0.6791
+Wydad,PASS,,1,,,,,11,,0.4199,0.5265,0.4473,0.3614
+Wydad,PASS,,1,,,,,7,,0.8984,0.7601,0.7676,0.7259
+Wydad,PASS,,1,,,,,7,,0.9023,0.5670,0.9375,0.9034
+Wydad,PASS,,1,,,,,7,,0.5625,0.7570,0.6621,0.9065
+Wydad,PASS,,1,,,,,7,,0.3691,0.7227,0.6602,0.6729
+Wydad,PASS,,1,,,,,7,,0.4238,0.7477,0.5254,0.7508
+Wydad,PASS,,1,,,,,7,,0.3945,0.6916,0.5645,0.6137
+Wydad,PASS,,1,,,,,7,,0.4746,0.6760,0.4355,0.8629
+Wydad,PASS,,1,,,,,7,,0.3535,0.8598,0.4512,0.7788
+Wydad,PASS,,1,,,,,7,,0.2656,0.9097,0.3535,0.8910
+Wydad,PASS,,1,,,,,7,,0.8301,0.6947,0.7578,0.8442
+Wydad,PASS,,1,,,,,28,,0.1484,0.3956,0.3379,0.2835
+Wydad,PASS,,1,,,,,28,,0.2695,0.3676,0.3887,0.5171
+Wydad,PASS,,1,,,,,28,,0.4727,0.4642,0.5820,0.3520
+Wydad,PASS,,1,,,,,28,,0.4258,0.3520,0.4316,0.1776
+Wydad,PASS,,1,,,,,28,,0.3516,0.1682,0.5332,0.2181
+Wydad,PASS,,1,,,,,28,,0.3848,0.2087,0.5410,0.1153
+Wydad,PASS,,1,,,,,28,,0.3594,0.2430,0.3770,0.2181
+Wydad,PASS,,1,,,,,28,,0.5625,0.0935,0.5859,0.1184
+Wydad,PASS,,1,,,,,28,,0.5918,0.2150,0.7520,0.1090
+Wydad,PASS,,1,,,,,28,,0.6582,0.0903,0.7793,0.1184
+Wydad,PASS,,1,,,,,28,,0.5645,0.3458,0.6113,0.1246
+Wydad,PASS,,1,,,,,28,,0.6230,0.3645,0.4609,0.2461
+Wydad,PASS,,1,,,,,28,,0.6152,0.7383,0.6836,0.5919
+Wydad,PASS,,1,,,,,17,,0.8867,0.5047,0.8379,0.5545
+Wydad,PASS,,1,,,,,17,,0.8555,0.8100,0.6367,0.5857
+Wydad,PASS,,1,,,,,17,,0.7500,0.7508,0.7773,0.8224
+Wydad,PASS,,1,,,,,17,,0.7559,0.5514,0.7285,0.7850
+Wydad,PASS,,1,,,,,17,,0.6523,0.6293,0.7051,0.7196
+Wydad,PASS,,1,,,,,17,,0.6777,0.6262,0.6289,0.7009
+Wydad,PASS,,1,,,,,17,,0.5996,0.8785,0.7031,0.8847
+Wydad,PASS,,1,,,,,4,,0.6660,0.2523,0.7422,0.4860
+Wydad,PASS,,1,,,,,4,,0.7402,0.5078,0.5117,0.3458
+Wydad,PASS,,1,,,,,4,,0.4785,0.4579,0.5918,0.5452
+Wydad,PASS,,1,,,,,4,,0.6445,0.9190,0.5898,0.6449
+Wydad,PASS,,1,,,,,4,,0.4648,0.6760,0.5605,0.7321
+Wydad,PASS,,1,,,,,4,,0.7559,0.8411,0.5234,0.6822
+Wydad,PASS,,1,,,,,4,,0.6367,0.7165,0.7363,0.7445
+Wydad,PASS,,1,,,,,4,,0.6934,0.8287,0.5645,0.3115
+Wydad,PASS,,1,,,,,4,,0.7090,0.7477,0.5938,0.8037
+Wydad,PASS,,1,,,,,4,,0.6797,0.7040,0.6387,0.8037
+Wydad,PASS,,1,,,,,4,,0.5840,0.6854,0.5430,0.3084
+Wydad,PASS,,1,,,,,4,,0.5703,0.5639,0.6016,0.7664
+Wydad,PASS,,1,,,,,4,,0.6055,0.2368,0.5664,0.3988
+Wydad,PASS,,1,,,,,4,,0.5996,0.2991,0.5391,0.2461
+Wydad,PASS,,1,,,,,4,,0.4512,0.2430,0.6133,0.2991
+Wydad,PASS,,1,,,,,4,,0.5234,0.1371,0.4316,0.3146
+Wydad,PASS,,1,,,,,4,,0.6426,0.0903,0.5840,0.1059
+Wydad,PASS,,1,,,,,4,,0.6484,0.0623,0.4102,0.2960
+Wydad,PASS,,1,,,,,4,,0.4473,0.1277,0.3789,0.2555
+Wydad,PASS,,1,,,,,4,,0.3301,0.1838,0.2129,0.1308
+Wydad,PASS,,1,,,,,4,,0.2402,0.2523,0.2637,0.3988
+Wydad,PASS,,1,,,,,4,,0.2656,0.3396,0.2734,0.5732
+Wydad,PASS,,1,,,,,4,,0.3945,0.5514,0.2520,0.4081
+Wydad,PASS,,1,,,,,4,,0.3418,0.3364,0.3418,0.5265
+Wydad,PASS,,1,,,,,4,,0.3477,0.3084,0.4063,0.4548
+Wydad,PASS,,1,,,,,4,,0.3750,0.3396,0.3340,0.6542
+Wydad,PASS,,1,,,,,4,,0.4707,0.7726,0.2930,0.5327
+Wydad,PASS,,1,,,,,4,,0.4395,0.7913,0.4297,0.4953
+Wydad,PASS,,1,,,,,4,,0.3691,0.8037,0.4102,0.7165
+Wydad,PASS,,1,,,,,4,,0.3828,0.8505,0.2559,0.5140
+Wydad,PASS,,1,,,,,4,,0.3770,0.8349,0.2891,0.5483
+Wydad,PASS,,1,,,,,4,,0.4023,0.7788,0.2910,0.5732
+Wydad,PASS,,1,,,,,4,,0.3691,0.6760,0.3359,0.6075
+Wydad,PASS,,1,,,,,4,,0.4844,0.2897,0.3320,0.6262
+Wydad,PASS,,1,,,,,4,,0.3672,0.2897,0.4668,0.2960
+Wydad,PASS,,1,,,,,4,,0.3770,0.7103,0.4121,0.2679
+Wydad,PASS,,1,,,,,4,,0.2813,0.8037,0.3691,0.7134
+Wydad,PASS,,1,,,,,4,,0.1973,0.6168,0.3223,0.7414
+Wydad,PASS,,1,,,,,4,,0.1152,0.5327,0.3496,0.5327
+Wydad,PASS,,1,,,,,4,,0.3086,0.7009,0.2109,0.7227
+Wydad,PASS,,1,,,,,38,,0.2305,0.2336,0.4531,0.1745
+Wydad,PASS,,1,,,,,38,,0.5781,0.4766,0.5684,0.3271
+Wydad,PASS,,1,,,,,38,,0.5605,0.6044,0.5605,0.4798
+Wydad,PASS,,1,,,,,38,,0.3496,0.8505,0.3164,0.7632
+Wydad,PASS,,1,,,,,31,,0.2266,0.7757,0.1484,0.8255
+Wydad,PASS,,1,,,,,31,,0.2539,0.7352,0.2500,0.8879
+Wydad,PASS,,1,,,,,18,,0.9121,0.2835,0.6777,0.5857
+Wydad,PASS,,1,,,,,18,,0.6445,0.4735,0.3906,0.6978
+Wydad,PASS,,1,,,,,18,,0.7832,0.3209,0.5918,0.9128
+Wydad,PASS,,1,,,,,18,,0.2285,0.5981,0.3164,0.7072
+Wydad,PASS,,1,,,,,18,,0.1973,0.1402,0.1660,0.3240
+Wydad,PASS,,1,,,,,18,,0.3008,0.2679,0.5547,0.3240
+Wydad,PASS,,1,,,,,18,,0.4375,0.1838,0.5234,0.5296
+Wydad,PASS,,1,,,,,18,,0.4023,0.1869,0.5547,0.2679
+Wydad,PASS,,1,,,,,18,,0.4434,0.4953,0.4004,0.6760
+Wydad,PASS,,1,,,,,18,,0.5469,0.2118,0.6367,0.1807
+Wydad,PASS,,1,,,,,18,,0.5801,0.0779,0.7109,0.2679
+Wydad,PASS,,1,,,,,18,,0.6328,0.2150,0.6484,0.0966
+Wydad,PASS,,1,,,,,18,,0.8848,0.1526,0.9180,0.1776
+Wydad,PASS,,1,,,,,18,,0.7246,0.1340,0.6836,0.2960
+Wydad,PASS,,1,,,,,18,,0.7852,0.8069,0.7910,0.2056
+Wydad,PASS,,1,,,,,18,,0.8438,0.9377,0.7461,0.7882
+Wydad,PASS,,1,,,,,18,,0.8457,0.8442,0.8105,0.9190
+Wydad,PASS,,1,,,,,18,,0.8730,0.8505,0.8047,0.8816
+Wydad,PASS,,1,,,,,18,,0.7520,0.9315,0.6797,0.9190
+Wydad,PASS,,1,,,,,18,,0.5859,0.8629,0.5879,0.6978
+Wydad,PASS,,1,,,,,18,,0.5977,0.6822,0.4746,0.7196
+Wydad,PASS,,1,,,,,18,,0.6289,0.5732,0.6875,0.6947
+Wydad,PASS,,1,,,,,18,,0.7480,0.4922,0.7949,0.3084
+Wydad,PASS,,1,,,,,18,,0.7969,0.3956,0.7500,0.6231
+Wydad,PASS,,1,,,,,18,,0.7910,0.2741,0.8008,0.1121
+Wydad,PASS,,1,,,,,18,,0.6523,0.8193,0.7188,0.7383
+Wydad,PASS,,1,,,,,18,,0.7090,0.7352,0.4629,0.9346
+Wydad,PASS,,1,,,,,18,,0.6406,0.7788,0.4180,0.6573
+Wydad,PASS,,1,,,,,18,,0.6816,0.3427,0.6445,0.6075
+Wydad,PASS,,1,,,,,18,,0.7910,0.1402,0.7793,0.0654
+Wydad,PASS,,1,,,,,18,,0.9043,0.5016,0.8906,0.5514
+Wydad,PASS,,1,,,,,20,,0.8008,0.3178,0.7305,0.2056
+Wydad,PASS,,1,,,,,20,,0.7832,0.2368,0.4219,0.3115
+Wydad,PASS,,1,,,,,20,,0.1563,0.6386,0.2344,0.1963
+Wydad,PASS,,1,,,,,20,,0.1582,0.3988,0.3809,0.2648
+Wydad,PASS,,1,,,,,20,,0.2539,0.2741,0.4297,0.2150
+Wydad,PASS,,1,,,,,20,,0.1602,0.1963,0.4063,0.4611
+Wydad,PASS,,1,,,,,20,,0.3828,0.1745,0.4551,0.1308
+Wydad,PASS,,1,,,,,20,,0.2969,0.2617,0.4512,0.2804
+Wydad,PASS,,1,,,,,20,,0.2969,0.2928,0.3867,0.2461
+Wydad,PASS,,1,,,,,20,,0.3086,0.3146,0.4297,0.2804
+Wydad,PASS,,1,,,,,20,,0.4023,0.7290,0.4258,0.3863
+Wydad,PASS,,1,,,,,20,,0.4141,0.3769,0.6055,0.2336
+Wydad,PASS,,1,,,,,20,,0.4121,0.8941,0.3047,0.7788
+Wydad,PASS,,1,,,,,20,,0.4355,0.8567,0.4082,0.7414
+Wydad,PASS,,1,,,,,20,,0.5098,0.8037,0.4414,0.6511
+Wydad,PASS,,1,,,,,20,,0.4883,0.7508,0.4707,0.5234
+Wydad,PASS,,1,,,,,20,,0.4902,0.5576,0.5059,0.4579
+Wydad,PASS,,1,,,,,20,,0.5352,0.5202,0.5508,0.7290
+Wydad,PASS,,1,,,,,20,,0.5234,0.6947,0.5742,0.5483
+Wydad,PASS,,1,,,,,20,,0.5586,0.6293,0.6250,0.9159
+Wydad,PASS,,1,,,,,20,,0.6758,0.9221,0.5996,0.9065
+Wydad,PASS,,1,,,,,20,,0.7051,0.9034,0.6934,0.8287
+Wydad,PASS,,1,,,,,20,,0.7441,0.8598,0.6230,0.7009
+Wydad,PASS,,1,,,,,20,,0.6602,0.7352,0.6582,0.4548
+Wydad,PASS,,1,,,,,20,,0.6777,0.8069,0.6191,0.4642
+Wydad,PASS,,1,,,,,20,,0.6367,0.5826,0.5488,0.2087
+Wydad,PASS,,1,,,,,20,,0.5430,0.2991,0.6543,0.0561
+Wydad,PASS,,1,,,,,20,,0.6172,0.2928,0.7031,0.1620
+Wydad,PASS,,1,,,,,20,,0.7070,0.2710,0.5586,0.2399
+Wydad,PASS,,1,,,,,20,,0.5410,0.2368,0.6230,0.1838
+Wydad,PASS,,1,,,,,20,,0.4941,0.2866,0.6250,0.1340
+Wydad,PASS,,1,,,,,20,,0.6387,0.1184,0.5234,0.1776
+Wydad,PASS,,1,,,,,20,,0.5195,0.3676,0.6914,0.0654
+Wydad,PASS,,1,,,,,20,,0.5527,0.3271,0.5352,0.4299
+Wydad,PASS,,1,,,,,20,,0.5664,0.4143,0.5879,0.2212
+Wydad,PASS,,1,,,,,20,,0.8457,0.0685,0.7559,0.1464
+Wydad,PASS,,1,,,,,20,,0.7520,0.1059,0.6191,0.1651
+Wydad,PASS,,1,,,,,20,,0.7227,0.4393,0.6680,0.4486
+Wydad,PASS,,1,,,,,5,,0.9160,0.6667,0.6191,0.7508
+Wydad,PASS,,1,,,,,5,,0.3164,0.7850,0.2344,0.8006
+Wydad,PASS,,1,,,,,5,,0.3652,0.2523,0.2949,0.6106
+Wydad,PASS,,1,,,,,5,,0.3652,0.1277,0.3730,0.2056
+Wydad,PASS,,1,,,,,5,,0.3789,0.0997,0.4375,0.2181
+Wydad,PASS,,1,,,,,5,,0.5898,0.2648,0.3516,0.4486
+Wydad,PASS,,1,,,,,5,,0.5840,0.0935,0.4355,0.4860
+Wydad,PASS,,1,,,,,5,,0.8047,0.1340,0.5840,0.1340
+Wydad,PASS,,1,,,,,5,,0.7773,0.1246,0.6660,0.1651
+Wydad,PASS,,1,,,,,5,,0.5195,0.5265,0.4453,0.5670
+Wydad,PASS,,1,,,,,5,,0.6445,0.6168,0.4453,0.5109
+Wydad,PASS,,1,,,,,5,,0.5723,0.6573,0.5273,0.4579
+Wydad,PASS,,1,,,,,5,,0.6621,0.5514,0.4590,0.4579
+Wydad,PASS,,1,,,,,5,,0.7090,0.3364,0.5840,0.5670
+Wydad,PASS,,1,,,,,5,,0.5605,0.4860,0.5117,0.3520
+Wydad,PASS,,1,,,,,5,,0.6895,0.4829,0.5254,0.5047
+Wydad,PASS,,1,,,,,5,,0.7266,0.5202,0.6465,0.5576
+Wydad,PASS,,1,,,,,5,,0.6816,0.5981,0.5371,0.5202
+Wydad,PASS,,1,,,,,5,,0.6992,0.8100,0.5957,0.7944
+Wydad,PASS,,1,,,,,5,,0.5879,0.9221,0.4121,0.8193
+Wydad,PASS,,1,,,,,5,,0.6680,0.4579,0.5430,0.2181
+Wydad,PASS,,1,,,,,5,,0.6738,0.4424,0.5430,0.4860
+Wydad,PASS,,1,,,,,5,,0.6309,0.3707,0.5879,0.3551
+Wydad,PASS,,1,,,,,22,,0.5938,0.8816,0.3145,0.8318
+Wydad,PASS,,1,,,,,22,,0.1719,0.6729,0.1777,0.8411
+Wydad,PASS,,1,,,,,22,,0.1445,0.6231,0.2461,0.8474
+Wydad,PASS,,1,,,,,22,,0.1426,0.6636,0.2578,0.8411
+Wydad,PASS,,1,,,,,22,,0.5332,0.7850,0.1348,0.6698
+Wydad,PASS,,1,,,,,22,,0.7480,0.8567,0.3633,0.7508
+Wydad,PASS,,1,,,,,22,,0.6445,0.8255,0.7734,0.8754
+Wydad,PASS,,1,,,,,22,,0.7422,0.8006,0.5859,0.8785
+Wydad,PASS,,1,,,,,22,,0.7207,0.7383,0.7461,0.8692
+Wydad,PASS,,1,,,,,22,,0.7734,0.8287,0.6836,0.7944
+Wydad,PASS,,1,,,,,22,,0.7383,0.7695,0.7637,0.6480
+Wydad,PASS,,1,,,,,22,,0.8691,0.6324,0.8828,0.6822
+Wydad,PASS,,1,,,,,22,,0.8301,0.8069,0.7754,0.9097
+Wydad,PASS,,1,,,,,22,,0.6953,0.8255,0.7500,0.9190
+Wydad,PASS,,1,,,,,22,,0.6367,0.9034,0.7129,0.9159
+Wydad,PASS,,1,,,,,22,,0.5840,0.7477,0.6484,0.8910
+Wydad,PASS,,1,,,,,22,,0.6523,0.7539,0.5527,0.7103
+Wydad,PASS,,1,,,,,22,,0.5703,0.6324,0.5488,0.7944
+Wydad,PASS,,1,,,,,22,,0.5156,0.7726,0.6504,0.7788
+Wydad,PASS,,1,,,,,22,,0.4512,0.7913,0.4082,0.8847
+Wydad,PASS,,1,,,,,22,,0.4238,0.7196,0.4453,0.8598
+Wydad,PASS,,1,,,,,22,,0.4766,0.5701,0.4082,0.8847
+Wydad,PASS,,1,,,,,22,,0.4199,0.3302,0.6055,0.3084
+Wydad,PASS,,1,,,,,22,,0.6152,0.1931,0.5996,0.2741
+Wydad,PASS,,1,,,,,22,,0.5430,0.8255,0.3887,0.8785
+Wydad,PASS,,1,,,,,22,,0.4063,0.6511,0.3574,0.8536
+Wydad,PASS,,1,,,,,22,,0.4043,0.6791,0.4043,0.7103
+Wydad,PASS,,1,,,,,22,,0.3711,0.6417,0.3984,0.7352
+Wydad,PASS,,1,,,,,22,,0.4082,0.7290,0.3125,0.8629
+Wydad,PASS,,1,,,,,22,,0.3691,0.7196,0.3223,0.8847
+Wydad,PASS,,1,,,,,22,,0.3359,0.6604,0.3652,0.8006
+Wydad,PASS,,1,,,,,22,,0.2813,0.7103,0.3867,0.8598
+Wydad,PASS,,1,,,,,22,,0.3340,0.7601,0.3730,0.8287
+Wydad,PASS,,1,,,,,22,,0.3223,0.7352,0.1406,0.8816
+Wydad,PASS,,1,,,,,22,,0.4531,0.9688,0.1992,0.7539
+Wydad,PASS,,1,,,,,22,,0.2559,0.6791,0.2754,0.8100
+Wydad,PASS,,1,,,,,22,,0.1582,0.5639,0.2969,0.7539
+Wydad,PASS,,1,,,,,22,,0.1660,0.5140,0.3008,0.8255
+Wydad,PASS,,1,,,,,22,,0.6934,0.8816,0.6504,0.9346
+Wydad,PASS,,1,,,,,14,,0.6875,0.2025,0.2852,0.0872
+Wydad,PASS,,1,,,,,14,,0.1543,0.3084,0.1816,0.1526
+Wydad,PASS,,1,,,,,14,,0.1367,0.2679,0.1973,0.1371
+Wydad,PASS,,1,,,,,14,,0.1094,0.4081,0.1074,0.2773
+Wydad,PASS,,1,,,,,14,,0.1582,0.1807,0.3008,0.1495
+Wydad,PASS,,1,,,,,14,,0.2734,0.3894,0.2754,0.1246
+Wydad,PASS,,1,,,,,14,,0.2598,0.3396,0.2402,0.2368
+Wydad,PASS,,1,,,,,14,,0.1699,0.3645,0.3652,0.1340
+Wydad,PASS,,1,,,,,14,,0.3379,0.3707,0.1758,0.4361
+Wydad,PASS,,1,,,,,14,,0.3711,0.3645,0.2715,0.3427
+Wydad,PASS,,1,,,,,14,,0.3379,0.2710,0.4043,0.1277
+Wydad,PASS,,1,,,,,14,,0.2930,0.4704,0.3887,0.1682
+Wydad,PASS,,1,,,,,14,,0.4336,0.5016,0.5547,0.6262
+Wydad,PASS,,1,,,,,14,,0.4551,0.4860,0.3320,0.3333
+Wydad,PASS,,1,,,,,14,,0.3516,0.4517,0.3633,0.2492
+Wydad,PASS,,1,,,,,14,,0.4141,0.3832,0.4277,0.1495
+Wydad,PASS,,1,,,,,14,,0.4063,0.2960,0.3457,0.1900
+Wydad,PASS,,1,,,,,14,,0.3008,0.3396,0.3574,0.1028
+Wydad,PASS,,1,,,,,14,,0.4688,0.3364,0.6563,0.0841
+Wydad,PASS,,1,,,,,14,,0.4648,0.4579,0.5996,0.4237
+Wydad,PASS,,1,,,,,14,,0.5566,0.2648,0.3555,0.3551
+Wydad,PASS,,1,,,,,14,,0.5391,0.2212,0.4063,0.1090
+Wydad,PASS,,1,,,,,14,,0.4043,0.2399,0.5176,0.1340
+Wydad,PASS,,1,,,,,14,,0.4375,0.2025,0.3613,0.1651
+Wydad,PASS,,1,,,,,14,,0.4395,0.2243,0.4141,0.1215
+Wydad,PASS,,1,,,,,14,,0.5098,0.0966,0.3770,0.1371
+Wydad,PASS,,1,,,,,14,,0.5410,0.1215,0.3828,0.0810
+Wydad,PASS,,1,,,,,14,,0.4844,0.1246,0.4043,0.1807
+Wydad,PASS,,1,,,,,14,,0.6348,0.5483,0.5547,0.0903
+Wydad,PASS,,1,,,,,14,,0.5840,0.3240,0.6680,0.2274
+Wydad,PASS,,1,,,,,14,,0.5684,0.3022,0.6094,0.1745
+Wydad,PASS,,1,,,,,14,,0.6563,0.1620,0.5371,0.0748
+Wydad,PASS,,1,,,,,14,,0.6270,0.1713,0.5703,0.0592
+Wydad,PASS,,1,,,,,14,,0.6660,0.0997,0.4316,0.1589
+Wydad,PASS,,1,,,,,14,,0.6973,0.0561,0.8320,0.0343
+Wydad,PASS,,1,,,,,14,,0.7910,0.0810,0.8828,0.0935
+Wydad,PASS,,1,,,,,14,,0.7285,0.1994,0.8066,0.1433
+Wydad,PASS,,1,,,,,14,,0.9023,0.5202,0.8984,0.0966
+Wydad,Passe ratee,Lost,1,,,,,26,,0.8203,0.4112,0.3848,0.4829
+Wydad,Passe ratee,Lost,1,,,,,3,,0.6621,0.6511,0.5684,0.6636
+Wydad,Passe ratee,Lost,1,,,,,3,,0.4727,0.7477,0.3164,0.8941
+Wydad,Passe ratee,Lost,1,,,,,3,,0.4688,0.3053,0.2031,0.6137
+Wydad,Passe ratee,Lost,1,,,,,3,,0.6875,0.5452,0.4102,0.6324
+Wydad,Passe ratee,Lost,1,,,,,3,,0.7559,0.2928,0.2676,0.6355
+Wydad,Passe ratee,Lost,1,,,,,3,,0.7500,0.6698,0.4277,0.6885
+Wydad,Passe ratee,Lost,1,,,,,3,,0.7500,0.6978,0.3555,0.7227
+Wydad,Passe ratee,Lost,1,,,,,3,,0.7383,0.7975,0.4727,0.7913
+Wydad,Passe ratee,Lost,1,,,,,24,,0.4023,0.9377,0.1465,0.4019
+Wydad,Passe ratee,Lost,1,,,,,24,,0.3848,0.7819,0.3340,0.5202
+Wydad,Passe ratee,Lost,1,,,,,24,,0.7148,0.2336,0.3496,0.5265
+Wydad,Passe ratee,Lost,1,,,,,24,,0.7598,0.2181,0.4199,0.7788
+Wydad,Passe ratee,Lost,1,,,,,24,,0.7832,0.0280,0.5605,0.1963
+Wydad,Passe ratee,Lost,1,,,,,24,,0.9492,0.6604,0.4844,0.2835
+Wydad,Passe ratee,Lost,1,,,,,24,,0.6250,0.3645,0.3789,0.4143
+Wydad,Passe ratee,Lost,1,,,,,24,,0.5664,0.4673,0.1348,0.2835
+Wydad,Passe ratee,Lost,1,,,,,24,,0.8086,0.7508,0.4531,0.3801
+Wydad,Passe ratee,Lost,1,,,,,24,,0.8594,0.2897,0.5820,0.3427
+Wydad,Passe ratee,Lost,1,,,,,9,,0.9082,0.4206,0.7813,0.1308
+Wydad,Passe ratee,Lost,1,,,,,9,,0.8145,0.6636,0.8574,0.4735
+Wydad,Passe ratee,Lost,1,,,,,9,,0.7539,0.5794,0.7539,0.5483
+Wydad,Passe ratee,Lost,1,,,,,11,,0.7031,0.8910,0.5449,0.8910
+Wydad,Passe ratee,Lost,1,,,,,11,,0.8438,0.3988,0.8008,0.3738
+Wydad,Passe ratee,Lost,1,,,,,7,,0.9512,0.6729,0.6016,0.6449
+Wydad,Passe ratee,Lost,1,,,,,7,,0.9063,0.7103,0.9082,0.7352
+Wydad,Passe ratee,Lost,1,,,,,7,,0.9043,0.8006,0.9063,0.8255
+Wydad,Passe ratee,Lost,1,,,,,7,,0.8203,0.3676,0.7422,0.7850
+Wydad,Passe ratee,Lost,1,,,,,7,,0.6660,0.5919,0.6953,0.6978
+Wydad,Passe ratee,Lost,1,,,,,28,,0.6738,0.4050,0.4766,0.1713
+Wydad,Passe ratee,Lost,1,,,,,28,,0.4023,0.0280,0.1211,0.1121
+Wydad,Passe ratee,Lost,1,,,,,28,,0.8887,0.4517,0.7109,0.2555
+Wydad,Passe ratee,Lost,1,,,,,28,,0.9492,0.7072,0.8359,0.2305
+Wydad,Passe ratee,Lost,1,,,,,28,,0.8027,0.8536,0.6660,0.8723
+Wydad,Passe ratee,Lost,1,,,,,28,,0.6934,0.2492,0.6367,0.2773
+Wydad,Passe ratee,Lost,1,,,,,28,,0.3691,0.5202,0.3496,0.3707
+Wydad,Passe ratee,Lost,1,,,,,17,,0.8828,0.0966,0.7461,0.8754
+Wydad,Passe ratee,Lost,1,,,,,17,,0.8965,0.5109,0.8691,0.8349
+Wydad,Passe ratee,Lost,1,,,,,17,,0.9141,0.6355,0.8457,0.9439
+Wydad,Passe ratee,Lost,1,,,,,4,,0.9492,0.5888,0.5449,0.7913
+Wydad,Passe ratee,Lost,1,,,,,4,,0.8066,0.3053,0.7461,0.6573
+Wydad,Passe ratee,Lost,1,,,,,4,,0.7949,0.2866,0.5742,0.6293
+Wydad,Passe ratee,Lost,1,,,,,18,,0.7148,0.7539,0.5859,0.6293
+Wydad,Passe ratee,Lost,1,,,,,18,,0.8438,0.6885,0.8027,0.3333
+Wydad,Passe ratee,Lost,1,,,,,18,,0.9043,0.7632,0.7168,0.6355
+Wydad,Passe ratee,Lost,1,,,,,20,,0.4023,0.3209,0.3691,0.3676
+Wydad,Passe ratee,Lost,1,,,,,20,,0.7578,0.3738,0.7031,0.3801
+Wydad,Passe ratee,Lost,1,,,,,20,,0.7285,0.7165,0.3906,0.5576
+Wydad,Passe ratee,Lost,1,,,,,5,,0.5566,0.1028,0.5723,0.1153
+Wydad,Passe ratee,Lost,1,,,,,5,,0.3652,0.6916,0.2090,0.6480
+Wydad,Passe ratee,Lost,1,,,,,5,,0.9531,0.6231,0.5781,0.5047
+Wydad,Passe ratee,Lost,1,,,,,22,,0.8359,0.7414,0.8945,0.8598
+Wydad,Passe ratee,Lost,1,,,,,22,,0.8398,0.6573,0.8203,0.6698
+Wydad,Passe ratee,Lost,1,,,,,22,,0.9434,0.8006,0.9434,0.8474
+Wydad,Passe ratee,Lost,1,,,,,22,,0.9141,0.5140,0.9297,0.8505
+Wydad,Passe ratee,Lost,1,,,,,22,,0.3867,0.7134,0.5254,0.7726
+Wydad,Passe ratee,Lost,1,,,,,22,,0.8652,0.8442,0.3262,0.6511
+Wydad,Passe ratee,Lost,1,,,,,22,,0.6641,0.7788,0.4063,0.8380
+Wydad,Passe ratee,Lost,1,,,,,22,,0.9570,0.2555,0.6602,0.7477
+Wydad,Passe ratee,Lost,1,,,,,22,,0.6973,0.0312,0.5352,0.6947
+Wydad,Passe ratee,Lost,1,,,,,22,,0.8105,0.7040,0.6328,0.7134
+Wydad,Passe ratee,Lost,1,,,,,22,,0.8984,0.7944,0.8984,0.8224
+Wydad,Passe ratee,Lost,1,,,,,14,,0.9316,0.0935,0.6289,0.5794
+Wydad,Passe ratee,Lost,1,,,,,14,,0.8105,0.2991,0.6543,0.1215
+Wydad,Passe ratee,Lost,1,,,,,14,,0.8281,0.2897,0.8105,0.1620
+Wydad,Passe ratee,Lost,1,,,,,14,,0.7637,0.1589,0.7500,0.3551
+Wydad,Passe ratee,Lost,1,,,,,14,,0.5801,0.2305,0.6289,0.1558
+Wydad,Passe ratee,Lost,1,,,,,14,,0.5977,0.1526,0.7520,0.1807
+Wydad,Passe ratee,Lost,1,,,,,14,,0.5762,0.0249,0.0664,0.2679
+Wydad,Passe ratee,Lost,1,,,,,14,,0.3145,0.4486,0.2832,0.1682
+Wydad,Passe ratee,Lost,1,,,,,14,,0.8789,0.6106,0.7109,0.4579
+Wydad,Passe ratee,Lost,1,,,,,14,,0.6504,0.2773,0.2637,0.2897
+Wydad,Passe ratee,Lost,1,,,,,14,,0.7344,0.1153,0.3809,0.0997
+Wydad,Ballon perdu,Lost,1,,,,,18,,0.8555,0.0623,,
+Wydad,Ballon perdu,Lost,1,,,,,18,,0.6738,0.2492,,
+Wydad,Ballon perdu,Lost,1,,,,,18,,0.9063,0.5670,,
+Wydad,Ballon perdu,Lost,1,,,,,18,,0.8828,0.5296,,
+Wydad,Ballon perdu,Lost,1,,,,,18,,0.7852,0.0561,,
+Wydad,Ballon perdu,Lost,1,,,,,18,,0.6387,0.3707,,
+Wydad,Ballon perdu,Lost,1,,,,,18,,0.7695,0.6106,,
+Wydad,Ballon perdu,Lost,1,,,,,18,,0.5254,0.5888,,
+Wydad,Ballon perdu,Lost,1,,,,,18,,0.3574,0.6947,,
+Wydad,Ballon perdu,Lost,1,,,,,18,,0.7969,0.7352,,
+Wydad,Ballon perdu,Lost,1,,,,,18,,0.0586,0.3801,,
+Wydad,Ballon perdu,Lost,1,,,,,9,,0.8984,0.4642,,
+Wydad,Ballon perdu,Lost,1,,,,,9,,0.9043,0.4984,,
+Wydad,Ballon perdu,Lost,1,,,,,9,,0.8613,0.3240,,
+Wydad,Ballon perdu,Lost,1,,,,,9,,0.6953,0.1931,,
+Wydad,Ballon perdu,Lost,1,,,,,9,,0.7637,0.5514,,
+Wydad,Ballon perdu,Lost,1,,,,,9,,0.5488,0.8754,,
+Wydad,Ballon perdu,Lost,1,,,,,9,,0.5508,0.8318,,
+Wydad,Ballon perdu,Lost,1,,,,,20,,0.6797,0.1308,,
+Wydad,Ballon perdu,Lost,1,,,,,20,,0.6309,0.2523,,
+Wydad,Ballon perdu,Lost,1,,,,,20,,0.6191,0.5296,,
+Wydad,Ballon perdu,Lost,1,,,,,20,,0.3340,0.1900,,
+Wydad,Ballon perdu,Lost,1,,,,,20,,0.3223,0.7445,,
+Wydad,Ballon perdu,Lost,1,,,,,28,,0.8066,0.3520,,
+Wydad,Ballon perdu,Lost,1,,,,,28,,0.7168,0.3209,,
+Wydad,Ballon perdu,Lost,1,,,,,28,,0.6973,0.4891,,
+Wydad,Ballon perdu,Lost,1,,,,,28,,0.8555,0.1371,,
+Wydad,Ballon perdu,Lost,1,,,,,28,,0.4004,0.1682,,
+Wydad,Ballon perdu,Lost,1,,,,,7,,0.7734,0.8006,,
+Wydad,Ballon perdu,Lost,1,,,,,7,,0.9648,0.9751,,
+Wydad,Ballon perdu,Lost,1,,,,,7,,0.6250,0.6667,,
+Wydad,Ballon perdu,Lost,1,,,,,7,,0.7871,0.3240,,
+Wydad,Ballon perdu,Lost,1,,,,,14,,0.9629,0.0218,,
+Wydad,Ballon perdu,Lost,1,,,,,14,,0.7969,0.1215,,
+Wydad,Ballon perdu,Lost,1,,,,,14,,0.6035,0.1713,,
+Wydad,Ballon perdu,Lost,1,,,,,14,,0.2656,0.1028,,
+Wydad,Ballon perdu,Lost,1,,,,,4,,0.3438,0.1526,,
+Wydad,Ballon perdu,Lost,1,,,,,4,,0.3477,0.2056,,
+Wydad,Ballon perdu,Lost,1,,,,,4,,0.5645,0.4112,,
+Wydad,Ballon perdu,Lost,1,,,,,22,,0.9043,0.8598,,
+Wydad,Ballon perdu,Lost,1,,,,,22,,0.3223,0.8598,,
+Wydad,Ballon perdu,Lost,1,,,,,22,,0.7070,0.9315,,
+Wydad,Ballon perdu,Lost,1,,,,,11,,0.9004,0.0623,,
+Wydad,Ballon perdu,Lost,1,,,,,11,,0.7891,0.2368,,
+Wydad,Ballon perdu,Lost,1,,,,,3,,0.1445,0.6449,,
+Wydad,Ballon perdu,Lost,1,,,,,3,,0.0742,0.7913,,
+Wydad,Ballon perdu,Lost,1,,,,,24,,0.9316,0.4766,,
+Wydad,Ballon perdu,Lost,1,,,,,24,,0.3105,0.2991,,
+Wydad,Ballon perdu,Lost,1,,,,,38,,0.7539,0.2960,,
+Wydad,Ballon perdu,Lost,1,,,,,38,,0.5684,0.5514,,
+Wydad,Ballon perdu,Lost,1,,,,,17,,0.5176,0.8193,,
+Wydad,Ballon perdu,Lost,1,,,,,5,,0.4121,0.6417,,
+Wydad,Duel gagne,Duels,1,,,,,3,,0.0977,0.8567,,
+Wydad,Duel gagne,Duels,1,,,,,3,,0.1035,0.9159,,
+Wydad,Duel gagne,Duels,1,,,,,31,,0.0840,0.9190,,
+Wydad,Duel gagne,Duels,1,,,,,3,,0.1328,0.7072,,
+Wydad,Duel gagne,Duels,1,,,,,3,,0.2109,0.6386,,
+Wydad,Duel gagne,Duels,1,,,,,3,,0.1465,0.3053,,
+Wydad,Duel gagne,Duels,1,,,,,3,,0.2305,0.2461,,
+Wydad,Duel gagne,Duels,1,,,,,3,,0.3887,0.3271,,
+Wydad,Duel gagne,Duels,1,,,,,3,,0.3359,0.6667,,
+Wydad,Duel gagne,Duels,1,,,,,3,,0.3379,0.7290,,
+Wydad,Duel gagne,Duels,1,,,,,3,,0.1406,0.8037,,
+Wydad,Duel gagne,Duels,1,,,,,3,,0.1543,0.8255,,
+Wydad,Duel gagne,Duels,1,,,,,3,,0.3281,0.7508,,
+Wydad,Duel gagne,Duels,1,,,,,3,,0.1758,0.8598,,
+Wydad,Duel gagne,Duels,1,,,,,4,,0.3047,0.5545,,
+Wydad,Duel gagne,Duels,1,,,,,4,,0.3848,0.6573,,
+Wydad,Duel gagne,Duels,1,,,,,4,,0.4316,0.6542,,
+Wydad,Duel gagne,Duels,1,,,,,4,,0.2930,0.7321,,
+Wydad,Duel gagne,Duels,1,,,,,4,,0.5957,0.3333,,
+Wydad,Duel gagne,Duels,1,,,,,4,,0.5664,0.4143,,
+Wydad,Duel gagne,Duels,1,,,,,4,,0.4473,0.3084,,
+Wydad,Duel gagne,Duels,1,,,,,4,,0.3535,0.2212,,
+Wydad,Duel gagne,Duels,1,,,,,4,,0.3379,0.1651,,
+Wydad,Duel gagne,Duels,1,,,,,4,,0.3535,0.1464,,
+Wydad,Duel gagne,Duels,1,,,,,4,,0.6289,0.1433,,
+Wydad,Duel gagne,Duels,1,,,,,4,,0.4199,0.7009,,
+Wydad,Duel gagne,Duels,1,,,,,18,,0.3633,0.6822,,
+Wydad,Duel gagne,Duels,1,,,,,18,,0.4609,0.4984,,
+Wydad,Duel gagne,Duels,1,,,,,18,,0.5293,0.5857,,
+Wydad,Duel gagne,Duels,1,,,,,18,,0.4531,0.7819,,
+Wydad,Duel gagne,Duels,1,,,,,18,,0.8457,0.7196,,
+Wydad,Duel gagne,Duels,1,,,,,18,,0.9336,0.7819,,
+Wydad,Duel gagne,Duels,1,,,,,18,,0.7793,0.2181,,
+Wydad,Duel gagne,Duels,1,,,,,18,,0.7695,0.1340,,
+Wydad,Duel gagne,Duels,1,,,,,18,,0.5195,0.3271,,
+Wydad,Duel gagne,Duels,1,,,,,18,,0.6504,0.8879,,
+Wydad,Duel gagne,Duels,1,,,,,18,,0.3320,0.8505,,
+Wydad,Duel gagne,Duels,1,,,,,22,,0.3848,0.9003,,
+Wydad,Duel gagne,Duels,1,,,,,22,,0.1777,0.8349,,
+Wydad,Duel gagne,Duels,1,,,,,22,,0.3496,0.7477,,
+Wydad,Duel gagne,Duels,1,,,,,22,,0.6113,0.7913,,
+Wydad,Duel gagne,Duels,1,,,,,22,,0.5742,0.8536,,
+Wydad,Duel gagne,Duels,1,,,,,22,,0.7070,0.8442,,
+Wydad,Duel gagne,Duels,1,,,,,22,,0.8750,0.8224,,
+Wydad,Duel gagne,Duels,1,,,,,22,,0.8555,0.8536,,
+Wydad,Duel gagne,Duels,1,,,,,22,,0.9219,0.8411,,
+Wydad,Duel gagne,Duels,1,,,,,22,,0.9023,0.7134,,
+Wydad,Duel gagne,Duels,1,,,,,22,,0.1094,0.4143,,
+Wydad,Duel gagne,Duels,1,,,,,24,,0.1914,0.4361,,
+Wydad,Duel gagne,Duels,1,,,,,24,,0.2246,0.3240,,
+Wydad,Duel gagne,Duels,1,,,,,24,,0.2109,0.2835,,
+Wydad,Duel gagne,Duels,1,,,,,24,,0.3105,0.3115,,
+Wydad,Duel gagne,Duels,1,,,,,24,,0.3867,0.2118,,
+Wydad,Duel gagne,Duels,1,,,,,24,,0.0996,0.1308,,
+Wydad,Duel gagne,Duels,1,,,,,24,,0.1738,0.0717,,
+Wydad,Duel gagne,Duels,1,,,,,24,,0.2695,0.5483,,
+Wydad,Duel gagne,Duels,1,,,,,24,,0.6406,0.1464,,
+Wydad,Duel gagne,Duels,1,,,,,24,,0.6816,0.9283,,
+Wydad,Duel gagne,Duels,1,,,,,7,,0.7012,0.9221,,
+Wydad,Duel gagne,Duels,1,,,,,7,,0.6250,0.6667,,
+Wydad,Duel gagne,Duels,1,,,,,7,,0.6777,0.4548,,
+Wydad,Duel gagne,Duels,1,,,,,7,,0.7910,0.3240,,
+Wydad,Duel gagne,Duels,1,,,,,7,,0.9141,0.6978,,
+Wydad,Duel gagne,Duels,1,,,,,7,,0.8359,0.8037,,
+Wydad,Duel gagne,Duels,1,,,,,7,,0.2285,0.3956,,
+Wydad,Duel gagne,Duels,1,,,,,28,,0.5898,0.1028,,
+Wydad,Duel gagne,Duels,1,,,,,28,,0.5859,0.2025,,
+Wydad,Duel gagne,Duels,1,,,,,28,,0.7324,0.1963,,
+Wydad,Duel gagne,Duels,1,,,,,28,,0.7910,0.1184,,
+Wydad,Duel gagne,Duels,1,,,,,28,,0.8281,0.2835,,
+Wydad,Duel gagne,Duels,1,,,,,28,,0.3125,0.1121,,
+Wydad,Duel gagne,Duels,1,,,,,14,,0.2617,0.2212,,
+Wydad,Duel gagne,Duels,1,,,,,14,,0.3320,0.1246,,
+Wydad,Duel gagne,Duels,1,,,,,14,,0.8906,0.0966,,
+Wydad,Duel gagne,Duels,1,,,,,14,,0.7441,0.3427,,
+Wydad,Duel gagne,Duels,1,,,,,14,,0.7520,0.1340,,
+Wydad,Duel gagne,Duels,1,,,,,14,,0.9277,0.2804,,
+Wydad,Duel gagne,Duels,1,,,,,9,,0.8613,0.3302,,
+Wydad,Duel gagne,Duels,1,,,,,9,,0.7285,0.2617,,
+Wydad,Duel gagne,Duels,1,,,,,9,,0.5957,0.6822,,
+Wydad,Duel gagne,Duels,1,,,,,9,,0.5488,0.8224,,
+Wydad,Duel gagne,Duels,1,,,,,9,,0.5703,0.4984,,
+Wydad,Duel gagne,Duels,1,,,,,9,,0.3281,0.1869,,
+Wydad,Duel gagne,Duels,1,,,,,5,,0.3594,0.7695,,
+Wydad,Duel gagne,Duels,1,,,,,5,,0.4629,0.8100,,
+Wydad,Duel gagne,Duels,1,,,,,5,,0.5996,0.1402,,
+Wydad,Duel gagne,Duels,1,,,,,5,,0.6035,0.1869,,
+Wydad,Duel gagne,Duels,1,,,,,5,,0.7070,0.4206,,
+Wydad,Duel gagne,Duels,1,,,,,5,,0.2383,0.1246,,
+Wydad,Duel gagne,Duels,1,,,,,11,,0.6602,0.1713,,
+Wydad,Duel gagne,Duels,1,,,,,11,,0.9277,0.1090,,
+Wydad,Duel gagne,Duels,1,,,,,11,,0.5137,0.8193,,
+Wydad,Duel gagne,Duels,1,,,,,17,,0.3086,0.9097,,
+Wydad,Duel gagne,Duels,1,,,,,17,,0.5527,0.4081,,
+Wydad,Duel gagne,Duels,1,,,,,17,,0.5664,0.5514,,
+Wydad,Duel gagne,Duels,1,,,,,38,,0.4316,0.5358,,
+Wydad,Duel gagne,Duels,1,,,,,38,,0.5586,0.3645,,
+Wydad,Duel gagne,Duels,1,,,,,38,,0.3438,0.8879,,
+Wydad,Duel gagne,Duels,1,,,,,31,,0.1133,0.2960,,
+Wydad,Duel gagne,Duels,1,,,,,26,,0.4512,0.0872,,
+Wydad,Duel gagne,Duels,1,,,,,20,,0.4355,0.2025,,
+Wydad,Duel gagne,Duels,1,,,,,20,,0.6387,0.1900,,
+Wydad,Duel gagne,Duels,1,,,,,20,,0.5059,0.3583,,
+Wydad,Duel gagne,Duels,1,,,,,20,,0.6250,0.5327,,
+Wydad,Duel gagne,Duels,1,,,,,20,,0.6699,0.5452,,
+Wydad,Duel gagne,Duels,1,,,,,20,,0.4434,0.8972,,
+Wydad,Duel gagne,Duels,1,,,,,20,,0.6797,0.7944,,
+Wydad,Duel gagne,Duels,1,,,,,20,,0.7285,0.8100,,
+Wydad,Duel gagne,Duels,1,,,,,20,,0.3398,0.7103,,
+Wydad,Duel gagne,Duels,1,,,,,3,,0.8906,0.5483,,
+Wydad,Duel gagne,Duels,1,,,,,20,,0.3184,0.7383,,
+Wydad,BALL LOST,Duels,1,,,,,28,,0.8555,0.1402,,
+Wydad,BALL LOST,Duels,1,,,,,28,,0.8027,0.3022,,
+Wydad,BALL LOST,Duels,1,,,,,28,,0.8105,0.3583,,
+Wydad,BALL LOST,Duels,1,,,,,28,,0.6973,0.4798,,
+Wydad,BALL LOST,Duels,1,,,,,28,,0.6641,0.4579,,
+Wydad,BALL LOST,Duels,1,,,,,28,,0.7246,0.1807,,
+Wydad,BALL LOST,Duels,1,,,,,28,,0.7031,0.1651,,
+Wydad,BALL LOST,Duels,1,,,,,28,,0.4473,0.4829,,
+Wydad,BALL LOST,Duels,1,,,,,28,,0.3594,0.2461,,
+Wydad,BALL LOST,Duels,1,,,,,28,,0.7227,0.3240,,
+Wydad,BALL LOST,Duels,1,,,,,28,,0.7832,0.8318,,
+Wydad,BALL LOST,Duels,1,,,,,22,,0.2207,0.9190,,
+Wydad,BALL LOST,Duels,1,,,,,22,,0.2656,0.9159,,
+Wydad,BALL LOST,Duels,1,,,,,22,,0.2695,0.8224,,
+Wydad,BALL LOST,Duels,1,,,,,22,,0.3203,0.8505,,
+Wydad,BALL LOST,Duels,1,,,,,22,,0.3984,0.9097,,
+Wydad,BALL LOST,Duels,1,,,,,22,,0.5879,0.8162,,
+Wydad,BALL LOST,Duels,1,,,,,22,,0.5781,0.7757,,
+Wydad,BALL LOST,Duels,1,,,,,22,,0.5605,0.7539,,
+Wydad,BALL LOST,Duels,1,,,,,22,,0.5898,0.7259,,
+Wydad,BALL LOST,Duels,1,,,,,22,,0.6621,0.7072,,
+Wydad,BALL LOST,Duels,1,,,,,22,,0.3750,0.6604,,
+Wydad,BALL LOST,Duels,1,,,,,17,,0.6699,0.2648,,
+Wydad,BALL LOST,Duels,1,,,,,17,,0.5879,0.4704,,
+Wydad,BALL LOST,Duels,1,,,,,17,,0.8809,0.8536,,
+Wydad,BALL LOST,Duels,1,,,,,17,,0.3926,0.8505,,
+Wydad,BALL LOST,Duels,1,,,,,17,,0.3164,0.8255,,
+Wydad,BALL LOST,Duels,1,,,,,17,,0.6973,0.8069,,
+Wydad,BALL LOST,Duels,1,,,,,17,,0.9043,0.3738,,
+Wydad,BALL LOST,Duels,1,,,,,17,,0.8516,0.0872,,
+Wydad,BALL LOST,Duels,1,,,,,17,,0.9004,0.1059,,
+Wydad,BALL LOST,Duels,1,,,,,24,,0.9414,0.0903,,
+Wydad,BALL LOST,Duels,1,,,,,24,,0.9102,0.1246,,
+Wydad,BALL LOST,Duels,1,,,,,24,,0.9297,0.4704,,
+Wydad,BALL LOST,Duels,1,,,,,24,,0.9023,0.5607,,
+Wydad,BALL LOST,Duels,1,,,,,24,,0.1406,0.6324,,
+Wydad,BALL LOST,Duels,1,,,,,24,,0.1348,0.1277,,
+Wydad,BALL LOST,Duels,1,,,,,24,,0.2871,0.3209,,
+Wydad,BALL LOST,Duels,1,,,,,24,,0.2520,0.3333,,
+Wydad,BALL LOST,Duels,1,,,,,24,,0.3789,0.7259,,
+Wydad,BALL LOST,Duels,1,,,,,7,,0.6211,0.5950,,
+Wydad,BALL LOST,Duels,1,,,,,7,,0.4609,0.7165,,
+Wydad,BALL LOST,Duels,1,,,,,7,,0.4863,0.8536,,
+Wydad,BALL LOST,Duels,1,,,,,7,,0.6523,0.8816,,
+Wydad,BALL LOST,Duels,1,,,,,7,,0.8262,0.7009,,
+Wydad,BALL LOST,Duels,1,,,,,7,,0.8848,0.7259,,
+Wydad,BALL LOST,Duels,1,,,,,7,,0.9238,0.6791,,
+Wydad,BALL LOST,Duels,1,,,,,7,,0.7695,0.8037,,
+Wydad,BALL LOST,Duels,1,,,,,4,,0.5840,0.2336,,
+Wydad,BALL LOST,Duels,1,,,,,4,,0.3418,0.8193,,
+Wydad,BALL LOST,Duels,1,,,,,4,,0.3418,0.8910,,
+Wydad,BALL LOST,Duels,1,,,,,4,,0.2754,0.8037,,
+Wydad,BALL LOST,Duels,1,,,,,5,,0.6133,0.4922,,
+Wydad,BALL LOST,Duels,1,,,,,5,,0.5293,0.5078,,
+Wydad,BALL LOST,Duels,1,,,,,5,,0.5977,0.2056,,
+Wydad,BALL LOST,Duels,1,,,,,5,,0.5137,0.6355,,
+Wydad,BALL LOST,Duels,1,,,,,38,,0.6582,0.1246,,
+Wydad,BALL LOST,Duels,1,,,,,38,,0.7363,0.2991,,
+Wydad,BALL LOST,Duels,1,,,,,38,,0.6406,0.5576,,
+Wydad,BALL LOST,Duels,1,,,,,38,,0.7539,0.2991,,
+Wydad,BALL LOST,Duels,1,,,,,3,,0.2480,0.5234,,
+Wydad,BALL LOST,Duels,1,,,,,3,,0.1406,0.2181,,
+Wydad,BALL LOST,Duels,1,,,,,3,,0.0703,0.1371,,
+Wydad,BALL LOST,Duels,1,,,,,11,,0.9004,0.0623,,
+Wydad,BALL LOST,Duels,1,,,,,11,,0.6328,0.3146,,
+Wydad,BALL LOST,Duels,1,,,,,31,,0.1348,0.7290,,
+Wydad,BALL LOST,Duels,1,,,,,31,,0.4355,0.8318,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.3887,0.0748,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.4902,0.1215,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.4258,0.3084,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.3027,0.1963,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.6387,0.7040,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.7109,0.8162,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.6836,0.8069,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.6113,0.8598,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.7559,0.8692,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.6387,0.3676,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.6055,0.3053,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.7637,0.1308,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.7324,0.1215,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.6582,0.0872,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.6816,0.1277,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.5566,0.2336,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.4668,0.2087,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.4551,0.8380,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.6289,0.5296,,
+Wydad,BALL LOST,Duels,1,,,,,20,,0.6113,0.1028,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.6445,0.3863,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.6504,0.5389,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.7734,0.6044,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.9258,0.5670,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.9316,0.8660,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.8711,0.7975,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.7969,0.7383,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.7617,0.7227,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.7383,0.7134,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.7324,0.6947,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.3770,0.6978,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.3887,0.8100,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.8613,0.0592,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.7988,0.2461,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.7637,0.2150,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.7266,0.2773,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.6367,0.2586,,
+Wydad,BALL LOST,Duels,1,,,,,18,,0.6660,0.2461,,
+Wydad,BALL LOST,Duels,1,,,,,14,,0.1406,0.1433,,
+Wydad,BALL LOST,Duels,1,,,,,14,,0.3535,0.1215,,
+Wydad,BALL LOST,Duels,1,,,,,14,,0.4121,0.1869,,
+Wydad,BALL LOST,Duels,1,,,,,14,,0.5645,0.1495,,
+Wydad,BALL LOST,Duels,1,,,,,14,,0.5566,0.2960,,
+Wydad,BALL LOST,Duels,1,,,,,14,,0.8086,0.1900,,
+Wydad,BALL LOST,Duels,1,,,,,14,,0.8027,0.1246,,
+Wydad,BALL LOST,Duels,1,,,,,14,,0.8945,0.1464,,
+Wydad,BALL LOST,Duels,1,,,,,14,,0.7324,0.0903,,
+Wydad,BALL LOST,Duels,1,,,,,14,,0.6973,0.0685,,
+Wydad,BALL LOST,Duels,1,,,,,14,,0.9238,0.2617,,
+Wydad,BALL LOST,Duels,1,,,,,14,,0.6484,0.1713,,
+Wydad,BALL LOST,Duels,1,,,,,14,,0.7852,0.4268,,
+Wydad,BALL LOST,Duels,1,,,,,9,,0.5918,0.4268,,
+Wydad,BALL LOST,Duels,1,,,,,9,,0.7383,0.5140,,
+Wydad,BALL LOST,Duels,1,,,,,9,,0.6504,0.6199,,
+Wydad,BALL LOST,Duels,1,,,,,9,,0.7344,0.6417,,
+Wydad,BALL LOST,Duels,1,,,,,9,,0.6602,0.7477,,
+Wydad,BALL LOST,Duels,1,,,,,9,,0.5508,0.8785,,
+Wydad,BALL LOST,Duels,1,,,,,9,,0.8438,0.8287,,
+Wydad,BALL LOST,Duels,1,,,,,9,,0.9043,0.4642,,
+Wydad,BALL LOST,Duels,1,,,,,9,,0.6973,0.2056,,
+Wydad,BALL LOST,Duels,1,,,,,9,,0.7891,0.1900,,
+Wydad,BALL LOST,Duels,1,,,,,9,,0.7734,0.2741,,
+Wydad,BALL LOST,Duels,1,,,,,9,,0.6582,0.3489,,
+Wydad,BALL LOST,Duels,1,,,,,9,,0.7070,0.4548,,
+Wydad,BALL LOST,Duels,1,,,,,9,,0.6895,0.6822,,
+Wydad,SHOT,,1,,,,,20,,0.7461,0.4579,,
+Wydad,SHOT,,1,,,,,20,,0.7715,0.5670,,
+Wydad,SHOT,,1,,,,,22,,0.8906,0.7383,,
+Wydad,SHOT,,1,,,,,7,,0.7539,0.5140,,
+Wydad,SHOT,,1,,,,,9,,0.9355,0.3614,,
+Wydad,SHOT,,1,,,,,28,,0.6797,0.5171,,
+Wydad,SHOT,,1,,,,,3,,0.9180,0.5576,,
+Wydad,Box,,1,,,,,18,,0.9102,0.2336,,
+Wydad,Box,,1,,,,,18,,0.9219,0.2710,,
+Wydad,Box,,1,,,,,18,,0.9082,0.5639,,
+Wydad,Box,,1,,,,,18,,0.8828,0.5265,,
+Wydad,Box,,1,,,,,18,,0.9434,0.6947,,
+Wydad,Box,,1,,,,,9,,0.9375,0.3427,,
+Wydad,Box,,1,,,,,9,,0.8594,0.4548,,
+Wydad,Box,,1,,,,,9,,0.9043,0.4922,,
+Wydad,Box,,1,,,,,9,,0.9277,0.6449,,
+Wydad,Box,,1,,,,,22,,0.8965,0.6822,,
+Wydad,Box,,1,,,,,22,,0.8359,0.6791,,
+Wydad,Box,,1,,,,,22,,0.9141,0.7601,,
+Wydad,Box,,1,,,,,17,,0.8730,0.6324,,
+Wydad,Box,,1,,,,,17,,0.8379,0.5421,,
+Wydad,Box,,1,,,,,7,,0.9102,0.7196,,
+Wydad,Box,,1,,,,,28,,0.8438,0.2305,,
+Wydad,Box,,1,,,,,3,,0.8887,0.5514,,
+Wydad,Recovery,,1,,,,,3,,0.1035,0.4953,,
+Wydad,Recovery,,1,,,,,3,,0.1348,0.7134,,
+Wydad,Recovery,,1,,,,,3,,0.1523,0.8287,,
+Wydad,Recovery,,1,,,,,3,,0.1074,0.9283,,
+Wydad,Recovery,,1,,,,,3,,0.3242,0.7227,,
+Wydad,Recovery,,1,,,,,3,,0.3398,0.7414,,
+Wydad,Recovery,,1,,,,,3,,0.3438,0.6760,,
+Wydad,Recovery,,1,,,,,3,,0.2598,0.6822,,
+Wydad,Recovery,,1,,,,,3,,0.3105,0.5452,,
+Wydad,Recovery,,1,,,,,3,,0.2969,0.5078,,
+Wydad,Recovery,,1,,,,,3,,0.3867,0.3271,,
+Wydad,Recovery,,1,,,,,3,,0.4063,0.3676,,
+Wydad,Recovery,,1,,,,,3,,0.2266,0.2523,,
+Wydad,Recovery,,1,,,,,3,,0.4063,0.5265,,
+Wydad,Recovery,,1,,,,,3,,0.3477,0.5639,,
+Wydad,Recovery,,1,,,,,3,,0.3613,0.7850,,
+Wydad,Recovery,,1,,,,,3,,0.2793,0.7508,,
+Wydad,Recovery,,1,,,,,3,,0.3535,0.5950,,
+Wydad,Recovery,,1,,,,,3,,0.1699,0.8754,,
+Wydad,Recovery,,1,,,,,14,,0.3145,0.1121,,
+Wydad,Recovery,,1,,,,,14,,0.3359,0.1215,,
+Wydad,Recovery,,1,,,,,14,,0.3496,0.1589,,
+Wydad,Recovery,,1,,,,,14,,0.3359,0.1900,,
+Wydad,Recovery,,1,,,,,14,,0.6289,0.1121,,
+Wydad,Recovery,,1,,,,,14,,0.7559,0.1340,,
+Wydad,Recovery,,1,,,,,14,,0.7598,0.3333,,
+Wydad,Recovery,,1,,,,,14,,0.6719,0.2336,,
+Wydad,Recovery,,1,,,,,14,,0.5996,0.4237,,
+Wydad,Recovery,,1,,,,,14,,0.1582,0.4424,,
+Wydad,Recovery,,1,,,,,14,,0.3203,0.3302,,
+Wydad,Recovery,,1,,,,,14,,0.2695,0.2212,,
+Wydad,Recovery,,1,,,,,14,,0.0996,0.2804,,
+Wydad,Recovery,,1,,,,,24,,0.1504,0.1402,,
+Wydad,Recovery,,1,,,,,24,,0.1699,0.0592,,
+Wydad,Recovery,,1,,,,,24,,0.3887,0.2150,,
+Wydad,Recovery,,1,,,,,24,,0.4199,0.2897,,
+Wydad,Recovery,,1,,,,,24,,0.4121,0.2336,,
+Wydad,Recovery,,1,,,,,24,,0.1914,0.4330,,
+Wydad,Recovery,,1,,,,,24,,0.0977,0.4112,,
+Wydad,Recovery,,1,,,,,24,,0.5098,0.3209,,
+Wydad,Recovery,,1,,,,,24,,0.3105,0.3676,,
+Wydad,Recovery,,1,,,,,24,,0.3086,0.2991,,
+Wydad,Recovery,,1,,,,,24,,0.2598,0.5514,,
+Wydad,Recovery,,1,,,,,22,,0.3730,0.8972,,
+Wydad,Recovery,,1,,,,,22,,0.2383,0.8505,,
+Wydad,Recovery,,1,,,,,22,,0.2578,0.8505,,
+Wydad,Recovery,,1,,,,,22,,0.1660,0.8474,,
+Wydad,Recovery,,1,,,,,22,,0.1309,0.8910,,
+Wydad,Recovery,,1,,,,,22,,0.6484,0.7788,,
+Wydad,Recovery,,1,,,,,22,,0.7520,0.8816,,
+Wydad,Recovery,,1,,,,,22,,0.7734,0.6449,,
+Wydad,Recovery,,1,,,,,22,,0.6055,0.2804,,
+Wydad,Recovery,,1,,,,,22,,0.6094,0.8006,,
+Wydad,Recovery,,1,,,,,22,,0.2930,0.7445,,
+Wydad,Recovery,,1,,,,,4,,0.3359,0.6075,,
+Wydad,Recovery,,1,,,,,4,,0.4160,0.7259,,
+Wydad,Recovery,,1,,,,,4,,0.5293,0.6822,,
+Wydad,Recovery,,1,,,,,4,,0.6055,0.5483,,
+Wydad,Recovery,,1,,,,,4,,0.3496,0.1402,,
+Wydad,Recovery,,1,,,,,4,,0.3359,0.1620,,
+Wydad,Recovery,,1,,,,,4,,0.3535,0.7570,,
+Wydad,Recovery,,1,,,,,4,,0.3477,0.2118,,
+Wydad,Recovery,,1,,,,,5,,0.4590,0.8131,,
+Wydad,Recovery,,1,,,,,5,,0.7031,0.4361,,
+Wydad,Recovery,,1,,,,,5,,0.6035,0.1807,,
+Wydad,Recovery,,1,,,,,5,,0.2910,0.6106,,
+Wydad,Recovery,,1,,,,,5,,0.3242,0.1807,,
+Wydad,Recovery,,1,,,,,5,,0.6484,0.5545,,
+Wydad,Recovery,,1,,,,,5,,0.3262,0.7601,,
+Wydad,Recovery,,1,,,,,26,,0.1426,0.4953,,
+Wydad,Recovery,,1,,,,,26,,0.1465,0.5265,,
+Wydad,Recovery,,1,,,,,26,,0.2031,0.5265,,
+Wydad,Recovery,,1,,,,,26,,0.1992,0.3676,,
+Wydad,Recovery,,1,,,,,26,,0.0918,0.3801,,
+Wydad,Recovery,,1,,,,,26,,0.2754,0.5545,,
+Wydad,Recovery,,1,,,,,20,,0.6250,0.5358,,
+Wydad,Recovery,,1,,,,,20,,0.6758,0.5576,,
+Wydad,Recovery,,1,,,,,20,,0.8105,0.5826,,
+Wydad,Recovery,,1,,,,,20,,0.4395,0.2025,,
+Wydad,Recovery,,1,,,,,20,,0.6074,0.9065,,
+Wydad,Recovery,,1,,,,,20,,0.4453,0.9128,,
+Wydad,Recovery,,1,,,,,18,,0.6289,0.2617,,
+Wydad,Recovery,,1,,,,,18,,0.7734,0.1277,,
+Wydad,Recovery,,1,,,,,18,,0.4121,0.6978,,
+Wydad,Recovery,,1,,,,,18,,0.5176,0.3333,,
+Wydad,Recovery,,1,,,,,28,,0.7383,0.1931,,
+Wydad,Recovery,,1,,,,,28,,0.5879,0.1059,,
+Wydad,Recovery,,1,,,,,28,,0.6094,0.1215,,
+Wydad,Recovery,,1,,,,,11,,0.2402,0.1215,,
+Wydad,Recovery,,1,,,,,7,,0.5293,0.7570,,
+Wydad,Recovery,,1,,,,,31,,0.3398,0.8847,,
+Wydad,Recovery,,1,,,,,38,,0.4316,0.5265,,
+Wydad,Recovery,,1,,,,,9,,0.8535,0.3178,,
+Wydad,PASSM,Goal-kick,1,,,,,26,,0.0801,0.4361,0.1211,0.4548
+Wydad,PASSM,Goal-kick,1,,,,,26,,0.0840,0.4766,0.2754,0.5981
+Wydad,PASSM,Goal-kick,1,,,,,26,,0.0840,0.5140,0.7188,0.2679
+Wydad,PASSM,Goal-kick,1,,,,,26,,0.0820,0.4611,0.2246,0.2897
+Wydad,PASSM,Goal-kick,1,,,,,26,,0.0820,0.4984,0.2168,0.5545
+Wydad,Centre,Cross,1,,,,,14,,0.8984,0.0966,0.9063,0.5109
+Wydad,Centre,Cross,1,,,,,7,,0.9453,0.9034,0.8945,0.5576
+Wydad,centre rate,Cross,1,,,,,18,,0.9355,0.2617,0.9336,0.2835
+Wydad,centre rate,Cross,1,,,,,28,,0.8398,0.2243,0.9570,0.7040
+Wydad,centre rate,Cross,1,,,,,14,,0.7031,0.1277,0.8242,0.2991
+Wydad,centre rate,Cross,1,,,,,28,,0.7383,0.2804,0.9102,0.4611
+Wydad,centre rate,Cross,1,,,,,22,,0.9473,0.8287,0.9414,0.8006
+Wydad,centre rate,Cross,1,,,,,7,,0.9355,0.8411,0.9180,0.4922
+Wydad,centre rate,Cross,1,,,,,22,,0.9082,0.8287,0.9063,0.7975
+Wydad,centre rate,Cross,1,,,,,17,,0.8926,0.8287,0.8906,0.7975
+Wydad,centre rate,Cross,1,,,,,17,,0.8750,0.8318,0.9063,0.4829
+Wydad,centre rate,Cross,1,,,,,17,,0.7676,0.8536,0.8867,0.1059
+Wydad,centre rate,Cross,1,,,,,7,,0.7500,0.7913,0.8281,0.3551
+Wydad,centre rate,Cross,1,,,,,22,,0.8359,0.7072,0.8496,0.6822
+Wydad,CORNER,CORNER,1,,,,,17,,0.9609,0.9720,0.8438,0.9003
+Wydad,CORNER,CORNER,1,,,,,7,,0.9629,0.9688,0.9219,0.5016
+Wydad,CORNER,CORNER,1,,,,,7,,0.9648,0.9751,0.8848,0.3769
+Wydad,CORNER,CORNER,1,,,,,14,,0.9609,0.0312,0.9512,0.1433
+Wydad,CORNER,CORNER,1,,,,,28,,0.9590,0.0280,0.9512,0.0748
+Wydad,CORNER,CORNER,1,,,,,7,,0.9629,0.9720,0.9180,0.5670
+Wydad,CORNER,CORNER,1,,,,,7,,0.9668,0.9751,0.9180,0.5857
+Wydad,CORNER,CORNER,1,,,,,14,,0.9629,0.9751,0.9395,0.9408
+Wydad,derriere la ligne,Through,1,,,,,3,,0.1152,0.9128,0.5430,0.8816
+Wydad,derriere la ligne,Through,1,,,,,3,,0.4766,0.7383,0.8105,0.9252
+Wydad,derriere la ligne,Through,1,,,,,3,,0.5391,0.6947,0.7910,0.7290
+Wydad,derriere la ligne,Through,1,,,,,3,,0.4141,0.6667,0.8867,0.7103
+Wydad,derriere la ligne,Through,1,,,,,3,,0.3652,0.6293,0.9102,0.2648
+Wydad,derriere la ligne,Through,1,,,,,3,,0.4629,0.5234,0.8242,0.2773
+Wydad,BALL LOST,Through,1,,,,,3,,0.4102,0.6324,0.6875,0.5452
+Wydad,BALL LOST,Through,1,,,,,3,,0.2676,0.6355,0.7559,0.2928
+Wydad,BALL LOST,Through,1,,,,,3,,0.4277,0.6885,0.7500,0.6698
+Wydad,BALL LOST,Through,1,,,,,3,,0.3555,0.7227,0.7500,0.6978
+Wydad,BALL LOST,Through,1,,,,,3,,0.4727,0.7913,0.7383,0.7975
+Wydad,derriere la ligne,Through,1,,,,,24,,0.5371,0.2523,0.8789,0.0997
+Wydad,derriere la ligne,Through,1,,,,,24,,0.3320,0.2866,0.7715,0.2274
+Wydad,derriere la ligne,Through,1,,,,,24,,0.3242,0.4268,0.7539,0.2804
+Wydad,derriere la ligne,Through,1,,,,,24,,0.5625,0.4829,0.7852,0.3333
+Wydad,derriere la ligne,Through,1,,,,,24,,0.5605,0.5016,0.9023,0.6573
+Wydad,derriere la ligne,Through,1,,,,,24,,0.4297,0.4984,0.8691,0.8193
+Wydad,derriere la ligne,Through,1,,,,,24,,0.3926,0.3489,0.7637,0.8692
+Wydad,BALL LOST,Through,1,,,,,24,,0.5859,0.3427,0.8574,0.2866
+Wydad,BALL LOST,Through,1,,,,,24,,0.4238,0.7944,0.7637,0.2150
+Wydad,BALL LOST,Through,1,,,,,24,,0.1250,0.2773,0.5664,0.4642
+Wydad,BALL LOST,Through,1,,,,,24,,0.4473,0.3583,0.8047,0.7539
+Wydad,BALL LOST,Through,1,,,,,24,,0.4824,0.2835,0.9531,0.6542
+Wydad,BALL LOST,Through,1,,,,,9,,0.7559,0.5389,0.7578,0.5763
+Wydad,derriere la ligne,Through,1,,,,,9,,0.6602,0.5452,0.7852,0.3302
+Wydad,derriere la ligne,Through,1,,,,,9,,0.7617,0.3520,0.8906,0.3707
+Wydad,BALL LOST,Through,1,,,,,11,,0.5449,0.8910,0.7031,0.8910
+Wydad,derriere la ligne,Through,1,,,,,7,,0.7676,0.7259,0.8984,0.7601
+Wydad,BALL LOST,Through,1,,,,,28,,0.4766,0.1713,0.6738,0.4050
+Wydad,derriere la ligne,Through,1,,,,,17,,0.8379,0.5545,0.8867,0.5047
+Wydad,derriere la ligne,Through,1,,,,,17,,0.6367,0.5857,0.8555,0.8100
+Wydad,BALL LOST,Through,1,,,,,4,,0.5449,0.7913,0.9492,0.5888
+Wydad,BALL LOST,Through,1,,,,,4,,0.7461,0.6573,0.8066,0.3053
+Wydad,BALL LOST,Through,1,,,,,18,,0.7148,0.7539,0.8027,0.3333
+Wydad,BALL LOST,Through,1,,,,,18,,0.7168,0.6355,0.9043,0.7632
+Wydad,derriere la ligne,Through,1,,,,,18,,0.6777,0.5857,0.9121,0.2835
+Wydad,derriere la ligne,Through,1,,,,,18,,0.3906,0.6978,0.6445,0.4735
+Wydad,derriere la ligne,Through,1,,,,,18,,0.5918,0.9128,0.7832,0.3209
+Wydad,derriere la ligne,Through,1,,,,,20,,0.7305,0.2056,0.8008,0.3178
+Wydad,derriere la ligne,Through,1,,,,,20,,0.4219,0.3115,0.7832,0.2368
+Wydad,BALL LOST,Through,1,,,,,20,,0.3906,0.5576,0.7285,0.7165
+Wydad,BALL LOST,Through,1,,,,,5,,0.5781,0.5047,0.9531,0.6231
+Wydad,derriere la ligne,Through,1,,,,,5,,0.6191,0.7508,0.9160,0.6667
+Wydad,derriere la ligne,Through,1,,,,,22,,0.3145,0.8318,0.5938,0.8816
+Wydad,BALL LOST,Through,1,,,,,22,,0.8945,0.8598,0.8359,0.7414
+Wydad,BALL LOST,Through,1,,,,,22,,0.8203,0.6698,0.8398,0.6573
+Wydad,BALL LOST,Through,1,,,,,22,,0.9434,0.8474,0.9434,0.8006
+Wydad,BALL LOST,Through,1,,,,,22,,0.9297,0.8505,0.9141,0.5140
+Wydad,BALL LOST,Through,1,,,,,22,,0.5254,0.7726,0.3867,0.7134
+Wydad,BALL LOST,Through,1,,,,,22,,0.3262,0.6511,0.8652,0.8442
+Wydad,BALL LOST,Through,1,,,,,22,,0.4063,0.8380,0.6641,0.7788
+Wydad,BALL LOST,Through,1,,,,,22,,0.6602,0.7477,0.9570,0.2555
+Wydad,BALL LOST,Through,1,,,,,22,,0.5352,0.6947,0.6973,0.0312
+Wydad,BALL LOST,Through,1,,,,,22,,0.6328,0.7134,0.8105,0.7040
+Wydad,derriere la ligne,Through,1,,,,,14,,0.2852,0.0872,0.6875,0.2025
+Wydad,BALL LOST,Through,1,,,,,14,,0.7109,0.4579,0.8789,0.6106
+Wydad,BALL LOST,Through,1,,,,,14,,0.2637,0.2897,0.6504,0.2773
+Wydad,BALL LOST,Through,1,,,,,14,,0.3809,0.0997,0.7344,0.1153
+Wydad,,Key Passes,1,,,,,24,,0.5605,0.5047,0.9004,0.6573
+Wydad,,Key Passes,1,,,,,9,,0.7578,0.3489,0.8926,0.3707
+Wydad,,Key Passes,1,,,,,17,,0.8379,0.5545,0.8867,0.5047
+Wydad,,Key Passes,1,,,,,18,,0.6777,0.5857,0.9121,0.2835
+Wydad,Tirs Assists,Assists to Shots,1,,,,,4,20,0.5078,0.3209,0.6973,0.4829
+Wydad,Tirs Assists,Assists to Shots,1,,,,,7,22,0.7598,0.6822,0.8926,0.7383
+Wydad,Tirs Assists,Assists to Shots,1,,,,,5,7,0.5586,0.2336,0.6816,0.4735
+Wydad,Tirs Assists,Assists to Shots,1,,,,,18,9,0.6582,0.6231,0.9375,0.3614
+Wydad,Tirs Assists,Assists to Shots,1,,,,,5,28,0.5391,0.5670,0.6426,0.4579
+Wydad,Tirs Assists,Assists to Shots,1,,,,,7,3,0.9590,0.9657,0.9199,0.5639
+Wydad,dribble reussi,Dribbles,1,,,,,24,282,0.1094,0.1215,,
+Wydad,BALL LOST,Dribbles,1,,,,,24,236,0.9395,0.2648,,
+Wydad,dribble reussi,Dribbles,1,,,,,9,237,0.7480,0.2617,,
+Wydad,dribble reussi,Dribbles,1,,,,,9,102,0.5762,0.6822,,
+Wydad,dribble reussi,Dribbles,1,,,,,9,85,0.6230,0.7352,,
+Wydad,BALL LOST,Dribbles,1,,,,,9,300,0.8809,0.0654,,
+Wydad,BALL LOST,Dribbles,1,,,,,11,172,0.6523,0.4642,,
+Wydad,dribble reussi,Dribbles,1,,,,,7,65,0.8320,0.7975,,
+Wydad,dribble reussi,Dribbles,1,,,,,7,93,0.8203,0.7103,,
+Wydad,BALL LOST,Dribbles,1,,,,,7,66,0.7637,0.7944,,
+Wydad,BALL LOST,Dribbles,1,,,,,7,38,0.6309,0.8816,,
+Wydad,BALL LOST,Dribbles,1,,,,,7,290,0.5840,0.0966,,
+Wydad,dribble reussi,Dribbles,1,,,,,28,256,0.7383,0.2025,,
+Wydad,dribble reussi,Dribbles,1,,,,,28,226,0.7207,0.2960,,
+Wydad,BALL LOST,Dribbles,1,,,,,28,51,0.7871,0.8411,,
+Wydad,BALL LOST,Dribbles,1,,,,,28,50,0.8730,0.8442,,
+Wydad,BALL LOST,Dribbles,1,,,,,17,188,0.5645,0.4143,,
+Wydad,dribble reussi,Dribbles,1,,,,,4,92,0.4219,0.7134,,
+Wydad,dribble reussi,Dribbles,1,,,,,18,94,0.7715,0.7072,,
+Wydad,BALL LOST,Dribbles,1,,,,,18,284,0.7578,0.1153,,
+Wydad,BALL LOST,Dribbles,1,,,,,20,283,0.7305,0.1184,,
+Wydad,BALL LOST,Dribbles,1,,,,,20,279,0.6992,0.1308,,
+Wydad,BALL LOST,Dribbles,1,,,,,20,290,0.6797,0.0966,,
+Wydad,BALL LOST,Dribbles,1,,,,,20,193,0.6309,0.3988,,
+Wydad,BALL LOST,Dribbles,1,,,,,20,57,0.7207,0.8224,,
+Wydad,dribble reussi,Dribbles,1,,,,,22,100,0.9004,0.6885,,
+Wydad,dribble reussi,Dribbles,1,,,,,22,59,0.9219,0.8162,,
+Wydad,dribble reussi,Dribbles,1,,,,,22,58,0.8770,0.8193,,
+Wydad,dribble reussi,Dribbles,1,,,,,22,60,0.7051,0.8131,,
+Wydad,dribble reussi,Dribbles,1,,,,,22,48,0.3184,0.8505,,
+Wydad,BALL LOST,Dribbles,1,,,,,14,262,0.6504,0.1838,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Wydad,Duels Aer,,1,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
+Adversaire,Duels Aer,,2,,,,,,,,,,
