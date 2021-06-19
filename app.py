@@ -1,5 +1,5 @@
 import dash
-import dash_design_kit as ddk
+import dash_design_kit as  ddk
 import dash_core_components as dcc
 import dash_bootstrap_components as dbc
 from event_plotter import plotEvents
