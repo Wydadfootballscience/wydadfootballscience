@@ -189,10 +189,12 @@ static_graph_controls = [
     dcc.Location(id="url", refresh=False),
     html.Div(id='content'), ]
 Wydad_Football_Science = (
-    "Une application d'analyse de données de football multi-onglets basée sur Dash pour Le Wydad Atheltic Club. Les données utilisées ont été mises à disposition par Wydad Football Science, afin que les analystes puissent évaluer les performances des deux équipes pendant le match."
-    " Ce produit est une version très réduite")
+    "Une application d'analyse de données de football multi-onglets basée sur Dash pour Le Wydad Atheltic. Les données utilisées ont été mises à disposition par Wydad Football Science, afin que les analystes puissent évaluer les performances des deux équipes pendant le match."
+    " Ce produit est une version très réduite de ce que j'ai construit et que j'utilise actuellement pour l'analyse au club danois")
 how_is_it_worked_out = (
-    "REMIDI Kamal | 25 ANS | PhD STUDENT IN ECONOMICS | Football CLUB MIDTJYLLAND PART TIME DATA ANALYST | FUTUR ENTRAINEUR DU WAC ")
+    "REMIDI Kamal | 25 ANS | PhD STUDENT IN ECONOMICS |"
+    "Football CLUB MIDTJYLLAND PART TIME DATA ANALYST |"
+    "FUTUR ENTRAINEUR DU WAC ")
 # Configure main app layout
 app.layout = ddk.App(theme=theme, children=[html.Header(
     html.Details(id='details_header',
