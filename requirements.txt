@@ -11,11 +11,10 @@ dash==1.19.0
 dash-bootstrap-components==0.10.7
 dash-core-components==1.15.0
 dash-daq==0.5.0
-dash-design-kit @ file:///C:/Users/Pitchaker/PycharmProjects/Yarbi/dash_design_kit-1.6.2-py2.py3-none-any.whl
+dash-design-kit --extra-index-url https://dash-playground.plotly.host/Docs/packages/dash-design-kit/dash_design_kit-1.5.4-py2.py3-none-any.whl
 dash-enterprise-auth==0.0.4
 dash-html-components==1.1.2
 dash-renderer==1.9.0
-dash-snapshots @ file:///C:/Users/Pitchaker/PycharmProjects/Yarbi/dash_snapshots-1.4.4-py2.py3-none-any.whl
 dash-table==4.11.2
 databricks-dash==0.0.1
 et-xmlfile==1.1.0
